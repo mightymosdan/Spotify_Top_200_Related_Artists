@@ -3,6 +3,26 @@ import spotipy
 import csv
 from spotipy.oauth2 import SpotifyClientCredentials
 
+"""
+artistDict structure: {
+    artist: { 
+        relatedArtists: [],
+        genres: [],
+        followers: []
+        },
+    artist: { 
+        relatedArtists: [],
+        genres: [],
+        followers: []
+        },
+    .
+    .
+    .
+}
+
+"""
+
+# Used for initial parsing of the kaggle dataset, can call on new csv files with Artist Header
 def parseAllUniqueArtists(path: str) -> dict:
     """
     Parses all unique artists within a .csv file with artists as a column.
@@ -22,30 +42,34 @@ def parseAllUniqueArtists(path: str) -> dict:
     artistDict = {}
     for artist in artistList:
         mainArtist = artist.split(',')[0]
-        artistDict[mainArtist] = ""
+        artistDict[mainArtist] = {'relatedArtists': [], 'genres': '', 'followers' : 0}
+
 
     print(f'Number of unique artists after removing features: {len(artistDict.keys())}')
 
-    artists = list(artistDict.keys())
-    artists.sort()
-    # for artist in artists:
-        # print(artist)
-
     return artistDict
 
-def getSpotifyArtistData(artist: str, sp: spotipy.Spotify) -> dict:
+def getSpotifyArtistData(artist: str, sp: spotipy.Spotify, term: str= None) -> dict:
     """
-    Searches Spotify for the artist passed in
-    using the Spotify API.
-    The top result(assumed to be the artist being searched for)
-    will be artist whose data will be returned.
-
-    Returns a dict containing the artist's data.
+    This function gets Spotify data based on Artists
     """
     try:
         artistData = sp.search(q='artist:' + artist, type='artist')
-        # Return the top result
-        return artistData['artists']['items'][0]
+        # Select the top result
+        artistData = artistData['artists']['items'][0]
+
+        # Check default case
+        if not term:
+            # print(f'Returning all data on Spotify Artist')
+            return artistData
+
+        elif term:
+            try:
+                return artistData[term]
+
+            except KeyError:
+                print(f'The term: {term} is not an key in artistData')
+                print(f'Keys in artistData: {artistData.keys()}')
 
     except BaseException:
         print("Usage show_related.py [artist-name]")
@@ -83,36 +107,60 @@ def updateArtistDictWithRelatedArtists(artistDict: dict, sp: spotipy.Spotify) ->
     for artist in allArtists:
         relatedArtists = getSpotifyArtistRelatedArtists(artist, sp)
         relatedArtists = relatedArtists & allArtistsSet
-        artistDict[artist] = list(relatedArtists)
+        artistDict[artist]['relatedArtists'] = list(relatedArtists)
+
+    return artistDict
+
+def updateArtistDictWithGenres(artistDict: dict, sp: spotipy.Spotify) ->dict:
+    """
+    Updates the artistDict with the genres.
+    """
+
+    allArtists = list(artistDict.keys())
+
+    for artist in allArtists:
+        artistGenres = getSpotifyArtistData(artist, sp, 'genres')
+        artistDict[artist]['genres'] = list(artistGenres)
+
+    return artistDict
+
+def updateArtistDictWithFollowers(artistDict: dict, sp: spotipy.Spotify) ->dict:
+    """
+    Updates the artistDict with the followers count.
+    """
+
+    allArtists = list(artistDict.keys())
+
+    for artist in allArtists:
+        artistData = getSpotifyArtistData(artist, sp, 'followers')
+        artistFollowers = artistData['total']
+        artistDict[artist]['followers'] = artistFollowers
 
     return artistDict
 
 def writeToCSV(data: dict):
     # Create Nodes sheet
-    node_header = ['Id', 'Artist']
+    node_header = ['Id', 'Artist', 'Genres', 'Followers']
     node_rows = []
     artists = list(data.keys())
     artists.sort()
 
     for x in range(len(artists)):
-        node_rows.append([x, artists[x]])
-
-    # print(node_header)
-    # print(node_rows)
+        node_rows.append([x, artists[x], data[artists[x]]['genres'], data[artists[x]]['followers']])
 
     # Create Edges sheet
-    type = 'Undirected'
-    weight = 1
-    edges_header = ['Source', 'Target', 'Type', 'Weight']
-    edges_rows = []
-
-    for x in artists:
-        for y in data[x]:
-            edges_rows.append([x, y, type, weight])
+    # type = 'Undirected'
+    # weight = 1
+    # edges_header = ['Source', 'Target', 'Type', 'Weight']
+    # edges_rows = []
+    #
+    # for x in artists:
+    #     for y in data[x]:
+    #         edges_rows.append([x, y, type, weight])
 
     # print(edges)
-
-    with open('nodes.csv', 'w', encoding='UTF-8', newline='') as f:
+    print('Writing csv file')
+    with open('nodes_and_attributes.csv', 'w', encoding='UTF-8', newline='') as f:
         writer = csv.writer(f)
 
         # Write the header
@@ -121,19 +169,19 @@ def writeToCSV(data: dict):
         # Write rows
         writer.writerows(node_rows)
 
-    with open('edges.csv', 'w', encoding='UTF-8', newline='') as f:
-        writer = csv.writer(f)
-
-        # Write the header
-        writer.writerow(edges_header)
-
-        # Write rows
-        writer.writerows(edges_rows)
+    # with open('edges.csv', 'w', encoding='UTF-8', newline='') as f:
+    #     writer = csv.writer(f)
+    #
+    #     # Write the header
+    #     writer.writerow(edges_header)
+    #
+    #     # Write rows
+    #     writer.writerows(edges_rows)
 
 
 if __name__ == '__main__':
     # Parse the CSV file and get all unique artists
-    artistDict = parseAllUniqueArtists("spotify_dataset.csv")
+    artistDict = parseAllUniqueArtists("nodes.csv")
 
     # Initialize spotipy classes - used to interface with Spotify API
     # Must register a project/app on https://developer.spotify.com and set
@@ -141,16 +189,23 @@ if __name__ == '__main__':
     client_credentials_manager = SpotifyClientCredentials()
     sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
-    artistDictWithRelatedArtists = updateArtistDictWithRelatedArtists(artistDict, sp)
+    artistDict = updateArtistDictWithGenres(artistDict, sp)
+    print("Genres updated")
+    artistDict = updateArtistDictWithFollowers(artistDict, sp)
+    print('Followers updated')
+    artistDict = updateArtistDictWithRelatedArtists(artistDict, sp)
+    print('Related artists updated')
 
     # Write the data to the files
-    writeToCSV(artistDictWithRelatedArtists)
+    print('Writing files')
+    writeToCSV(artistDict)
+    print('Done writing')
 
-    # for k, v in artistDictWithRelatedArtists.items():
-    #     print(f'Artist is: {k}')
-    #     print(f'Related artists for {k}: {v}')
-    #
-    #     print("\n")
+
+
+
+
+
 
 
 
