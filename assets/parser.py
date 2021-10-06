@@ -8,12 +8,14 @@ artistDict structure: {
     artist: { 
         relatedArtists: [],
         genres: [],
-        followers: []
+        followers: [],
+        id: ''
         },
     artist: { 
         relatedArtists: [],
         genres: [],
-        followers: []
+        followers: [],
+        id: ''
         },
     .
     .
@@ -42,7 +44,7 @@ def parseAllUniqueArtists(path: str) -> dict:
     artistDict = {}
     for artist in artistList:
         mainArtist = artist.split(',')[0]
-        artistDict[mainArtist] = {'relatedArtists': [], 'genres': '', 'followers' : 0}
+        artistDict[mainArtist] = {'relatedArtists': [], 'genres': '', 'followers' : 0, 'id': 0}
 
 
     print(f'Number of unique artists after removing features: {len(artistDict.keys())}')
@@ -140,27 +142,38 @@ def updateArtistDictWithFollowers(artistDict: dict, sp: spotipy.Spotify) ->dict:
 
 def writeToCSV(data: dict):
     # Create Nodes sheet
-    node_header = ['Id', 'Artist', 'Genres', 'Followers']
+    node_header = ['Id', 'Artist', 'Genres', 'Followers', 'Related Artist']
     node_rows = []
     artists = list(data.keys())
     artists.sort()
 
     for x in range(len(artists)):
-        node_rows.append([x, artists[x], data[artists[x]]['genres'], data[artists[x]]['followers']])
+        # Assign IDs to artists
+        data[artists[x]]['id'] = x
+
+        # print(f'Artist ID: {data[artists[x]]["id"]}')
+        # print(f'Artist: {artists[x]}')
+        # print(f'Genres: {data[artists[x]]["genres"]}')
+        # print(f'Followers: {data[artists[x]]["followers"]}')
+        allRelatedArtists = ', '.join(data[artists[x]]['relatedArtists'])
+        # print(allRelatedArtists)
+        node_rows.append([data[artists[x]]['id'], artists[x], data[artists[x]]['genres'], data[artists[x]]['followers'], allRelatedArtists])
 
     # Create Edges sheet
-    # type = 'Undirected'
-    # weight = 1
-    # edges_header = ['Source', 'Target', 'Type', 'Weight']
-    # edges_rows = []
-    #
-    # for x in artists:
-    #     for y in data[x]:
-    #         edges_rows.append([x, y, type, weight])
+    type = 'Undirected'
+    weight = 1
+    edges_header = ['Source', 'Target', 'Type', 'Weight']
+    edges_rows = []
 
-    # print(edges)
-    print('Writing csv file')
-    with open('nodes_and_attributes.csv', 'w', encoding='UTF-8', newline='') as f:
+    # Create edges based on relatedArtists
+    for x in range(len(artists)):
+        for y in data[artists[x]]['relatedArtists']:
+            # Write the row:
+            # Source (Artist ID) | Target (Related Artist ID) | Type(Undirected) | Weight(1)
+            edges_rows.append([data[artists[x]]['id'], data[y]['id'], type, weight])
+
+    # print('Writing csv file')
+    with open('nodes_and_attributes_updated.csv', 'w', encoding='UTF-8', newline='') as f:
         writer = csv.writer(f)
 
         # Write the header
@@ -169,14 +182,14 @@ def writeToCSV(data: dict):
         # Write rows
         writer.writerows(node_rows)
 
-    # with open('edges.csv', 'w', encoding='UTF-8', newline='') as f:
-    #     writer = csv.writer(f)
-    #
-    #     # Write the header
-    #     writer.writerow(edges_header)
-    #
-    #     # Write rows
-    #     writer.writerows(edges_rows)
+    with open('edges_updated.csv', 'w', encoding='UTF-8', newline='') as f:
+        writer = csv.writer(f)
+
+        # Write the header
+        writer.writerow(edges_header)
+
+        # Write rows
+        writer.writerows(edges_rows)
 
 
 if __name__ == '__main__':
@@ -189,6 +202,7 @@ if __name__ == '__main__':
     client_credentials_manager = SpotifyClientCredentials()
     sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
+    print('Beginning to update artistDict')
     artistDict = updateArtistDictWithGenres(artistDict, sp)
     print("Genres updated")
     artistDict = updateArtistDictWithFollowers(artistDict, sp)
@@ -200,6 +214,8 @@ if __name__ == '__main__':
     print('Writing files')
     writeToCSV(artistDict)
     print('Done writing')
+
+
 
 
 
