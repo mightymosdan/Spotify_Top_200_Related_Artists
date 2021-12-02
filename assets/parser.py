@@ -142,7 +142,7 @@ def updateArtistDictWithFollowers(artistDict: dict, sp: spotipy.Spotify) ->dict:
 
 def writeToCSV(data: dict):
     # Create Nodes sheet
-    node_header = ['Id', 'Artist', 'Genres', 'Followers', 'Related Artist']
+    node_header = ['ID', 'Label', 'Genres', 'Followers', 'Related Artist']
     node_rows = []
     artists = list(data.keys())
     artists.sort()
@@ -160,7 +160,7 @@ def writeToCSV(data: dict):
         node_rows.append([data[artists[x]]['id'], artists[x], data[artists[x]]['genres'], data[artists[x]]['followers'], allRelatedArtists])
 
     # Create Edges sheet
-    type = 'Undirected'
+    type = 'Directed'
     weight = 1
     edges_header = ['Source', 'Target', 'Type', 'Weight']
     edges_rows = []
@@ -198,7 +198,7 @@ if __name__ == '__main__':
 
     # Initialize spotipy classes - used to interface with Spotify API
     # Must register a project/app on https://developer.spotify.com and set
-    # SPOTIPY_CLIENT_ID and SPOTIPY_CLIENT_SECRET as env vaariables on your machine
+    # SPOTIPY_CLIENT_ID and SPOTIPY_CLIENT_SECRET as env variables on your machine
     client_credentials_manager = SpotifyClientCredentials()
     sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
