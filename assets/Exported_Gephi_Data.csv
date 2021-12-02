@@ -1,0 +1,513 @@
+Id,Label,timeset,genres,followers,related artist,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality,indegree,outdegree,Degree,modularity_class,componentnumber,strongcompnum,clustering
+0,*NSYNC,,"['boy band', 'dance pop', 'pop', 'post-teen pop']",1603363,,0,0,0,0,1,0,1,87,0,0,0
+1,13 Organisé,,"['french hip hop', 'pop urbaine']",138778,,0,0,0,0,0,0,0,0,1,1,0
+2,187 Strassenbande,,"['german hip hop', 'hamburg hip hop']",1241344,"RAF Camora, KC Rebell, Gzuz",5,0.375,0.501111,4.583333,4,3,7,10,2,9,0.366667
+3,21 Savage,,"['atl hip hop', 'hip hop', 'rap', 'trap']",10175028,"Trippie Redd, Migos, Don Toliver, Lil Yachty, Gunna, Lil Baby, Baby Keem, NAV, Playboi Carti",17,0.111969,0.18806,770.314764,7,9,16,66,0,41,0.311111
+4,24kGoldn,,"['cali rap', 'pop rap']",1377804,"Internet Money, TOKYO’S REVENGE, benny blanco, Lil Tecca, Juice WRLD, Lil Mosey, iann dior, Arizona Zervas, jxdn, Tyla Yaweh",13,0.17505,0.257121,6462.511304,1,10,11,66,0,41,0.233333
+5,347aidan,,"['sad lo-fi', 'sad rap']",236481,,0,0,0,0,0,0,0,1,3,42,0
+6,5 Seconds of Summer,,"['boy band', 'dance pop', 'electropop', 'pop', 'post-teen pop']",7890539,"One Direction, Jonas Brothers, ZAYN, Niall Horan, Madison Beer, Liam Payne",11,0.187905,0.241724,47.838107,8,6,14,87,0,41,0.377778
+7,6ix9ine,,"['emo rap', 'rap']",6545366,"Roddy Ricch, YNW Melly, NAV, Lil Mosey",16,0.122535,0.180345,0.494755,1,4,5,66,0,41,0.55
+8,A Boogie Wit da Hoodie,,"['melodic rap', 'rap', 'trap']",5976377,"Trippie Redd, Lil Tjay, Lil Yachty, Lil Mosey, YNW Melly, NAV",16,0.122968,0.190306,7.935706,3,6,9,66,0,41,0.357143
+9,A$AP Ferg,,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap', 'underground hip hop']",3095999,Migos,19,0.092602,0.129111,0,3,1,4,66,0,41,0.333333
+10,AC/DC,,"['australian rock', 'hard rock', 'rock']",20778582,,0,0,0,0,1,0,1,8,4,43,0
+11,AK AUSSERKONTROLLE,,['german hip hop'],706677,,0,0,0,0,1,0,1,10,2,6,0
+12,ATB,,"['german dance', 'german techno', 'german trance', 'trance']",300781,,0,0,0,0,0,0,0,2,5,44,0
+13,AURORA,,"['art pop', 'norwegian pop']",1844570,,0,0,0,0,0,0,0,3,6,45,0
+14,Adele,,"['british soul', 'pop', 'pop soul', 'uk pop']",29134957,"Miley Cyrus, Meghan Trainor, Sam Smith, P!nk, Ellie Goulding, Kelly Clarkson, Leona Lewis, Sia",12,0.206221,0.285837,70.962302,1,8,9,87,0,47,0.142857
+15,Agust D,,['k-rap'],6038181,TOMORROW X TOGETHER,1,1,1,0,1,1,2,4,7,49,0.5
+16,Alan Walker,,['electro house'],30515652,"Sam Feldt, The Chainsmokers",14,0.147152,0.180407,0,0,2,2,72,0,56,0
+17,Alec Benjamin,,"['alt z', 'dream smp', 'electropop', 'pop']",2953479,"Tate McRae, Dean Lewis, Alexander 23, Bea Miller",12,0.155774,0.193143,2971.011267,2,4,6,87,0,41,0.166667
+18,Alex Rose,,"['latin', 'reggaeton', 'reggaeton flow', 'trap latino']",2290748,"Myke Towers, Lunay, Rvssian, Jhay Cortez, Kevin Roldan",9,0.257353,0.390215,20.739185,11,5,16,100,0,32,0.381818
+19,Alexander 23,,"['alt z', 'pop']",222488,"JP Saxe, Sara Kays",2,0.75,0.833333,245.368848,6,2,8,87,0,15,0.1
+20,Ali Gatie,,"['canadian hip hop', 'pop']",1782799,"benny blanco, Tate McRae, Trevor Daniel, Kina",12,0.182952,0.231719,0,0,4,4,66,0,58,0.083333
+21,Alida,,['norwegian pop'],17068,Robin Schulz,2,0.6,0.666667,0,0,1,1,72,0,59,0
+22,Alok,,"['electro house', 'pop nacional', 'slap house']",10569336,PEDRO SAMPAIO,3,0.5,0.583333,0,0,1,1,90,8,62,0
+23,Andy Williams,,"['adult standards', 'brill building pop', 'easy listening', 'lounge', 'mellow gold', 'vocal jazz']",380035,"Brenda Lee, Perry Como",2,0.75,0.833333,2.5,7,2,9,97,9,63,0.404762
+24,Anitta,,"['funk carioca', 'funk pop', 'pagode baiano', 'pop nacional']",10828270,Luísa Sonza,3,0.5,0.611111,0,1,1,2,90,8,61,0
+25,Anne-Marie,,"['dance pop', 'pop', 'pop dance', 'post-teen pop', 'tropical house', 'uk pop']",8449283,"Bebe Rexha, Mabel, Niall Horan, Ellie Goulding, Liam Payne",12,0.174349,0.226982,268.447379,10,5,15,87,0,41,0.245455
+26,Ant Saunders,,"['chill r&b', 'pop']",83242,"Peach Tree Rascals, MAX, Alexander 23",12,0.170068,0.211407,0,0,3,3,64,0,64,0
+27,Anuel AA,,"['latin', 'reggaeton', 'reggaeton flow', 'trap boricua', 'trap latino']",18945557,"Nio Garcia, Myke Towers, Lunay, Rvssian, Jhay Cortez, Bad Bunny, Tainy",8,0.3125,0.466224,124.589241,12,7,19,100,0,32,0.474359
+28,Apache 207,,['german hip hop'],1728140,"KC Rebell, Bausa",4,0.380952,0.458333,0,0,2,2,10,2,65,1
+29,Arcangel,,"['latin', 'latin hip hop', 'reggaeton', 'trap latino']",6881294,"Jowell & Randy, Nicky Jam, Yandel, Wisin, Farruko",1,1,1,41.822763,8,5,13,100,0,25,0.430556
+30,Arctic Monkeys,,"['garage rock', 'permanent wave', 'rock', 'sheffield indie']",12709531,,0,0,0,0,0,0,0,5,10,66,0
+31,Ariana Grande,,"['dance pop', 'pop']",69656977,"Little Mix, Bebe Rexha, Miley Cyrus, Normani, ZAYN, Halsey, Madison Beer, Camila Cabello, Selena Gomez, Demi Lovato, Bea Miller",10,0.214286,0.291071,83.941941,1,11,12,87,0,41,0.310606
+32,Arizona Zervas,,"['pop rap', 'rhode island rap']",631025,Trevor Daniel,15,0.128984,0.154022,1619.122517,9,1,10,66,0,41,0.125
+33,Ashe,,"['alt z', 'electropop', 'indie pop', 'pop']",710642,"Tate McRae, Sara Kays, Conan Gray, Bea Miller",12,0.155496,0.192377,1327.857268,6,4,10,87,0,41,0.160714
+34,Ashnikko,,"['alt z', 'electropop', 'escape room', 'pop']",1369055,BIA,1,1,1,0.333333,1,1,2,16,0,68,0
+35,Ava Max,,"['dance pop', 'pop']",4212713,"Bebe Rexha, Mabel, Clean Bandit, Anne-Marie, Sabrina Carpenter, Madison Beer, Ellie Goulding, Camila Cabello",11,0.19977,0.259866,328.546746,3,8,11,87,0,41,0.344444
+36,Avicii,,"['dance pop', 'edm', 'pop', 'pop dance']",20644773,"Galantis, Martin Garrix",2,0.75,0.833333,0,0,2,2,72,0,69,0
+37,Aya Nakamura,,"['basshall', 'francoton']",3088830,Vegedream,3,0.444444,0.541667,0,1,1,2,6,11,72,0
+38,BANDIDO,,['concurso de talentos argentino'],26056,,0,0,0,0,0,0,0,7,12,73,0
+39,BANNERS,,"['indie poptimism', 'modern rock', 'pop', 'pop rock']",433495,Dean Lewis,14,0.122622,0.144209,4086.49237,6,1,7,32,0,41,0.066667
+40,BENEE,,"['alt z', 'nz pop', 'pop']",646786,Peach Tree Rascals,1,1,1,0,0,1,1,64,0,74,0
+41,BIA,,"['escape room', 'r&b', 'rap latina', 'trap queen']",184479,,0,0,0,0,6,0,6,16,0,67,0.266667
+42,BLACKPINK,,"['k-pop', 'k-pop girl group']",25172087,"ROSÉ, Red Velvet, TWICE, K/DA",2,0.75,0.833333,8,2,4,6,8,4,77,0.333333
+43,BLANCO,,"['electropop', 'pop', 'pop rap']",824734,"Bazzi, Internet Money, Arizona Zervas, Trevor Daniel",12,0.196629,0.255388,175,1,4,5,66,0,78,0.1
+44,BROCKHAMPTON,,"['boy band', 'hip hop', 'rap']",1862544,,0,0,0,0,6,0,6,32,0,79,0.133333
+45,BTS,,"['k-pop', 'k-pop boy group']",39355301,"Agust D, TOMORROW X TOGETHER",1,1,1,0,0,2,2,4,7,80,0.5
+46,Baby Keem,,"['hip hop', 'rap', 'trap']",455087,Cordae,1,1,1,13.798413,5,1,6,32,0,13,0.166667
+47,Bad Bunny,,"['latin', 'reggaeton', 'trap latino']",38011613,"Alex Rose, Nio Garcia, Myke Towers, Lunay, Rvssian, KAROL G, Anuel AA, Kevin Roldan, Rauw Alejandro, Jhay Cortez, Ozuna, Tainy",7,0.364583,0.554082,5.662828,2,12,14,100,0,32,0.621212
+48,Band Aid,,['musical advocacy'],20066,"Bobby Helms, Wham!",3,0.5,0.583333,0,0,2,2,97,9,84,0
+49,Banda MS de Sergio Lizárraga,,"['banda', 'corrido', 'norteno', 'regional mexican']",12629261,,0,0,0,0,1,0,1,9,13,85,0
+50,Barbara Pravi,,"['eurovision', 'nouvelle chanson francaise']",83726,,0,0,0,0,1,0,1,35,14,86,0
+51,Bas,,"['metropopolis', 'modern rock', 'pop', 'pop rock', 'tropical house']",4832673,"Tom Grennan, BANNERS",15,0.111111,0.132363,3791.436814,6,2,8,32,0,41,0.125
+52,Bausa,,"['german hip hop', 'german pop']",969246,"Zuna, Bonez MC, Dardan, KitschKrieg, KC Rebell",3,0.517241,0.622222,38.483333,6,5,11,10,2,9,0.321429
+53,Bazzi,,"['dance pop', 'electropop', 'pop']",4550364,"MAX, ZAYN, benny blanco, Madison Beer, Khalid, Lauv, Bea Miller",11,0.219975,0.287664,14350.995766,10,7,17,87,0,41,0.128205
+54,Bea Miller,,"['alt z', 'dance pop', 'electropop', 'indie poptimism', 'modern rock', 'pop', 'post-teen pop', 'talent show']",2454538,Madison Beer,11,0.17665,0.201022,1965.109402,15,1,16,87,0,41,0.166667
+55,Beach Bunny,,"['bubblegrunge', 'chicago indie', 'indie pop', 'pop']",666902,Wallows,15,0.106683,0.120748,174.5,2,1,3,87,0,41,0.333333
+56,Bebe Rexha,,"['dance pop', 'pop', 'post-teen pop']",6696850,"Mabel, Anne-Marie, Halsey, Madison Beer, Ellie Goulding, Camila Cabello, Demi Lovato, Bea Miller",11,0.204465,0.269103,306.301625,7,8,15,87,0,41,0.25641
+57,Becky G,,"['dance pop', 'latin', 'latin pop', 'latin viral pop', 'pop', 'rap latina', 'reggaeton', 'trap latino']",10549437,"Lele Pons, Lunay, KAROL G, Natti Natasha, Tainy",7,0.353982,0.454821,7335.388095,2,5,7,100,0,35,0.233333
+58,Bella Poarch,,[],554556,,0,0,0,0,0,0,0,11,15,87,0
+59,Belly,,"['canadian hip hop', 'canadian trap', 'pop rap', 'rap', 'southern hip hop', 'trap', 'trap soul']",213660,"Meek Mill, French Montana, The Weeknd, Travis Scott",18,0.119608,0.19367,0.25,1,4,5,32,0,90,0.416667
+60,Beyoncé,,"['dance pop', 'pop', 'r&b']",28979733,"Kehlani, Normani",23,0.075172,0.100167,0,0,2,2,16,0,91,1
+61,Big Red Machine,,"['eau claire indie', 'folktronica', 'indie pop']",114465,,0,0,0,0,0,0,0,12,16,92,0
+62,Big Sean,,"['detroit hip hop', 'hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap']",8813312,"Meek Mill, French Montana, Bas, Ty Dolla $ign",16,0.131123,0.182618,2643.305429,11,4,15,32,0,41,0.186813
+63,Billie Eilish,,"['electropop', 'pop']",49661223,"Tate McRae, Lorde, Ashe, Bazzi, MARINA, Melanie Martinez, Halsey, Madison Beer, The Neighbourhood, Harry Styles, Conan Gray, Bea Miller",11,0.21223,0.29742,0,0,12,12,87,0,95,0.227273
+64,Bing Crosby,,"['adult standards', 'easy listening', 'lounge', 'swing']",364245,"Andy Williams, Perry Como, Burl Ives",2,0.8,0.875,1.5,3,3,6,97,9,96,0.466667
+65,Bizarrap,,"['argentine hip hop', 'pop venezolano', 'trap argentino', 'trap latino']",3523497,"KHEA, Trueno",1,1,1,0,2,2,4,94,17,97,1
+66,Black Eyed Peas,,"['dance pop', 'pop', 'pop rap']",6109688,"Justin Timberlake, Gwen Stefani, Jason Derulo, Nelly Furtado, Britney Spears",13,0.147084,0.186472,62.666667,2,5,7,87,0,41,0.45
+67,Blind Channel,,"['eurovision', 'oulu metal', 'trancecore']",130314,,0,0,0,0,0,0,0,13,18,98,0
+68,Blxst,,[],196373,"K CAMP, Vedo",1,1,1,0,0,2,2,16,0,100,0
+69,Bo Burnham,,['comic'],1175507,Dream,17,0.092292,0.108336,0,0,1,1,32,0,102,0
+70,Bobby Helms,,[],20883,"Brenda Lee, Darlene Love, Perry Como, Burl Ives",2,0.75,0.833333,6,1,4,5,97,9,83,0.2
+71,Bonez MC,,"['german hip hop', 'hamburg hip hop']",1710401,"Zuna, Gzuz, Bausa, Dardan, RAF Camora, 187 Strassenbande, KC Rebell",4,0.483871,0.661111,10.816667,3,7,10,10,2,9,0.321429
+72,Booba,,"['francoton', 'french hip hop', 'old school rap francais', 'pop urbaine', 'rap conscient']",2230120,,0,0,0,0,0,0,0,14,19,103,0
+73,Boomdabash,,"['italian adult pop', 'italian pop', 'italian reggae']",557205,Fedez,1,1,1,0,0,1,1,59,20,105,0
+74,Bosh,,[],245,,0,0,0,0,0,0,0,15,21,106,0
+75,Boza,,['reggaeton'],319996,,0,0,0,0,1,0,1,100,0,107,0
+76,Brenda Lee,,"['adult standards', 'brill building pop', 'easy listening', 'lounge', 'rockabilly', 'vocal jazz']",230079,"Andy Williams, Perry Como",2,0.75,0.833333,1,3,2,5,97,9,63,0.5
+77,Brent Faiyaz,,"['dmv rap', 'pop', 'r&b', 'rap']",1815829,"H.E.R., PARTYNEXTDOOR, Bryson Tiller",20,0.095604,0.138377,3372.333333,5,3,8,16,0,41,0.35
+78,Brett Eldredge,,"['contemporary country', 'country', 'country road', 'modern country rock']",1314421,Walker Hayes,1,1,1,0,1,1,2,17,22,108,0
+79,Bring Me The Horizon,,"['melodic metalcore', 'metalcore', 'rock', 'uk metalcore']",4023393,,0,0,0,0,0,0,0,18,23,109,0
+80,Britney Spears,,"['dance pop', 'pop', 'post-teen pop']",9746519,"Miley Cyrus, Kylie Minogue, Kelly Clarkson, Gwen Stefani, Nelly Furtado",12,0.170588,0.215817,1711.083333,6,5,11,87,0,41,0.267857
+81,Bruce Springsteen,,"['classic rock', 'heartland rock', 'mellow gold', 'permanent wave', 'rock', 'singer-songwriter']",4347910,,0,0,0,0,0,0,0,19,24,110,0
+82,Bruno Mars,,"['dance pop', 'pop']",34089732,"One Direction, Meghan Trainor, Katy Perry, ZAYN, Justin Timberlake, Jason Derulo, Jason Mraz",11,0.221527,0.289716,0,0,7,7,87,0,111,0.047619
+83,Bryson Tiller,,"['kentucky hip hop', 'pop', 'pop rap', 'r&b', 'rap', 'trap']",5121542,"Jhené Aiko, Brent Faiyaz, PARTYNEXTDOOR",20,0.095342,0.134737,1057.333333,8,3,11,16,0,41,0.232143
+84,Burl Ives,,"['adult standards', 'american folk revival']",59522,Perry Como,2,0.6,0.666667,0,3,1,4,97,9,63,0.333333
+85,BØRNS,,"['modern alternative rock', 'modern rock', 'pop']",1039077,,0,0,0,0,4,0,4,87,0,36,0.166667
+86,C. Tangana,,['urbano espanol'],1541998,Marc Seguí,1,1,1,186,1,1,2,100,0,34,0
+87,CJ,,['nyc rap'],190295,DDG,20,0.084378,0.107492,0,0,1,1,66,0,112,0
+88,CORPSE,,"['dream smp', 'viral rap']",1896748,Dream,17,0.092292,0.108336,0,0,1,1,32,0,113,0
+89,Cali Y El Dandee,,"['champeta', 'colombian pop', 'electro latino', 'latin', 'latin pop', 'reggaeton', 'reggaeton colombiano', 'trap latino']",3227829,Piso 21,7,0.269231,0.30551,1.833333,6,1,7,100,0,32,0.266667
+90,Calvin Harris,,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'pop rap', 'progressive house', 'uk dance']",22161803,"Major Lazer, Kygo, Galantis, The Chainsmokers",14,0.14741,0.187689,10,1,4,5,72,0,55,0.416667
+91,Camila Cabello,,"['dance pop', 'pop', 'post-teen pop']",23525145,"Meghan Trainor, ZAYN, Niall Horan, Shawn Mendes, Madison Beer, Selena Gomez, Liam Payne, Demi Lovato, Bazzi, Normani",10,0.23803,0.306589,8634.217891,19,10,29,87,0,41,0.193676
+92,Camilo,,"['colombian pop', 'reggaeton colombiano']",11534629,"Manuel Turizo, Reik, KAROL G, Piso 21, Sebastian Yatra, TINI, Natti Natasha, Cali Y El Dandee",4,0.479452,0.564286,1599.775905,1,8,9,100,0,32,0.25
+93,Capital Bra,,['german hip hop'],4132330,"Samra, Miksu / Macloud, Zuna, AK AUSSERKONTROLLE, Bausa, Dardan, KC Rebell",3,0.576923,0.7,27.65,1,7,8,10,2,9,0.214286
+94,Cardi B,,"['dance pop', 'pop', 'pop rap', 'rap']",18068144,"BIA, Lizzo, Megan Thee Stallion, Nicki Minaj, Saweetie, Normani",23,0.077055,0.121921,275.333333,4,6,10,16,0,114,0.261905
+95,Childish Gambino,,"['atl hip hop', 'hip hop', 'pop rap', 'rap']",8303952,"BROCKHAMPTON, Kendrick Lamar, Mac Miller, Kid Cudi",17,0.115385,0.156396,194.291667,6,4,10,32,0,88,0.190476
+96,Chris Brown,,"['dance pop', 'pop', 'pop rap', 'r&b', 'rap']",14388608,Ty Dolla $ign,18,0.112108,0.15244,0,0,1,1,32,0,115,0
+97,Chris Rea,,"['album rock', 'blues rock', 'classic rock', 'mellow gold', 'soft rock', 'sophisti-pop']",664849,,0,0,0,0,0,0,0,20,25,116,0
+98,Christian Nodal,,"['mariachi', 'nuevo regional mexicano', 'ranchera', 'regional mexican']",8705180,Banda MS de Sergio Lizárraga,1,1,1,0,0,1,1,9,13,117,0
+99,Chuck Berry,,"['blues rock', 'classic rock', 'rock', 'rock-and-roll', 'rockabilly', 'soul']",1464272,,0,0,0,0,1,0,1,30,26,118,0
+100,Clairo,,"['bedroom pop', 'indie pop', 'pop']",2827220,,0,0,0,0,2,0,2,87,0,16,0.5
+101,Clean Bandit,,"['dance pop', 'edm', 'pop', 'pop dance', 'tropical house', 'uk dance', 'uk funky']",4497572,"Ellie Goulding, Anne-Marie, Mabel",12,0.167954,0.20448,21.97381,5,3,8,87,0,41,0.357143
+102,Cochise,,"['plugg', 'vapor trap', 'viral rap']",188939,,0,0,0,0,0,0,0,21,27,119,0
+103,Coldplay,,"['permanent wave', 'pop']",31979566,"Vance Joy, Tom Odell, Oasis, Kygo, Maroon 5, Hozier, OneRepublic, The Killers",12,0.188976,0.251146,0,0,8,8,72,0,123,0.125
+104,Conan Gray,,"['bedroom pop', 'electropop', 'indie pop', 'pop']",4066357,"Ashe, Clairo, Wallows, Beach Bunny",13,0.135303,0.166925,1187.768919,7,4,11,87,0,41,0.138889
+105,Conkarah,,['jawaiian'],67471,,0,0,0,0,0,0,0,22,28,124,0
+106,Cordae,,"['dmv rap', 'hip hop', 'rap', 'trap', 'underground hip hop', 'vapor trap']",1525155,,0,0,0,0,12,0,12,66,0,12,0.189394
+107,Crissin,,[],7195,,0,0,0,0,0,0,0,23,29,125,0
+108,Curtis Waters,,[],70041,"ElyOtto, Peach Tree Rascals",1,1,1,0,0,2,2,64,0,127,0
+109,DDG,,"['rap', 'trap']",538841,"Cordae, Lil Yachty",19,0.091627,0.122358,598.937103,8,2,10,66,0,41,0.1
+110,DJ Ivis,,['piseiro'],389338,,0,0,0,0,0,0,0,24,30,128,0
+111,DJ Khaled,,"['hip hop', 'miami hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap']",6427995,"Lil Wayne, Ty Dolla $ign, French Montana, Meek Mill, Big Sean",17,0.12202,0.178859,180,2,5,7,32,0,41,0.452381
+112,DJ Snake,,"['dance pop', 'edm', 'electronic trap', 'pop', 'pop dance', 'pop rap']",7462663,Major Lazer,3,0.5,0.611111,0,1,1,2,72,0,53,0
+113,DMX,,"['east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'pop rap', 'rap']",2839404,,0,0,0,0,1,0,1,32,0,129,0
+114,DaBaby,,"['north carolina hip hop', 'rap']",8063132,"Roddy Ricch, NLE Choppa, Cordae, Gunna, Internet Money, Lil Tecca, Lil Mosey, YNW Melly, NAV",16,0.123492,0.200651,189.376812,5,9,14,66,0,41,0.327273
+115,Daddy Yankee,,"['latin', 'latin hip hop', 'reggaeton', 'trap latino']",24456517,"Jowell & Randy, Arcangel, Nicky Jam, Yandel, Wisin, Farruko",1,1,1,0,0,6,6,100,0,130,0.8
+116,Dadá Boladão,,"['brega funk', 'funk carioca']",211684,,0,0,0,0,1,0,1,90,8,131,0
+117,Dalex,,"['latin', 'r&b en espanol', 'reggaeton', 'trap latino']",3697676,"Alex Rose, Nio Garcia, Myke Towers, Lunay, Rvssian, Anuel AA, Jhay Cortez, Kevin Roldan",8,0.304348,0.463844,4.193838,3,8,11,100,0,32,0.644444
+118,Damso,,"['belgian hip hop', 'french hip hop', 'pop urbaine', 'rap belge', 'rap conscient']",3170971,"Gradur, Maes, Ninho",1,1,1,0,0,3,3,6,11,132,0.666667
+119,Dan + Shay,,"['contemporary country', 'country', 'pop']",2408625,"Luke Combs, Kane Brown, Morgan Wallen",1,1,1,0,3,3,6,57,31,133,1
+120,Dardan,,[],279,,0,0,0,0,9,0,9,10,2,4,0.333333
+121,Darlene Love,,['brill building pop'],39786,The Ronettes,1,1,1,2,2,1,3,97,9,82,0
+122,Daryl Hall & John Oates,,"['album rock', 'classic rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",1596491,,0,0,0,0,2,0,2,68,32,134,0
+123,Dave,,"['jam band', 'neo mellow', 'pop rock']",1598864,,0,0,0,0,0,0,0,25,33,135,0
+124,Daði Freyr,,"['icelandic pop', 'sunnlensk tonlist']",173660,,0,0,0,0,2,0,2,35,14,136,1
+125,Dean Lewis,,"['australian pop', 'pop', 'pop rock']",1738417,"JP Saxe, Lewis Capaldi, Alec Benjamin, BANNERS",13,0.139647,0.177147,4746.07121,7,4,11,72,0,41,0.142857
+126,Dean Martin,,"['adult standards', 'easy listening', 'lounge', 'vocal jazz']",1166651,"Andy Williams, Nat King Cole, Perry Como, Bing Crosby",2,0.75,0.833333,0.333333,3,4,7,97,9,137,0.5
+127,Demi Lovato,,"['dance pop', 'pop', 'post-teen pop']",20704156,"Miley Cyrus, Meghan Trainor, Jonas Brothers, Sabrina Carpenter, Madison Beer, Camila Cabello, Selena Gomez",11,0.216958,0.27929,1558.327733,16,7,23,87,0,41,0.186275
+128,Diego & Victor Hugo,,"['sertanejo pop', 'sertanejo universitario']",1661468,Henrique & Juliano,4,0.4,0.486111,14.5,4,1,5,51,34,138,0.333333
+129,Dj Guuga,,"['funk carioca', 'funk paulista', 'rave funk']",649767,Niack,1,1,1,0,0,1,1,90,8,140,0
+130,Doja Cat,,"['dance pop', 'pop']",10405402,"Kali Uchis, SZA, H.E.R., Nicki Minaj, Kehlani, WILLOW, Normani",22,0.083758,0.139907,0,0,7,7,16,0,141,0.357143
+131,Dominic Fike,,"['alternative pop rock', 'pop']",564730,Peach Tree Rascals,1,1,1,183,2,1,3,64,0,39,0
+132,Don Toliver,,"['pop', 'rap', 'trap']",1707950,"Gunna, Baby Keem, 21 Savage, NAV, Playboi Carti",18,0.101695,0.15919,393.866571,10,5,15,66,0,41,0.209091
+133,Donny Hathaway,,"['chicago soul', 'classic soul', 'funk', 'motown', 'neo soul', 'quiet storm', 'soul', 'southern soul']",435437,,0,0,0,0,0,0,0,26,35,142,0
+134,Drake,,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",57538724,"Lil Wayne, Ty Dolla $ign, PARTYNEXTDOOR, Migos, J. Cole, NAV, French Montana, DJ Khaled, Bryson Tiller, Kendrick Lamar, Meek Mill, Tory Lanez, Future, Big Sean",17,0.133236,0.24745,0,0,14,14,32,0,144,0.192308
+135,Dream,,"['hip hop', 'rap', 'underground hip hop']",370400,"Cordae, Bas",16,0.101098,0.121948,350,2,2,4,32,0,101,0
+136,DripReport,,['viral rap'],93881,,0,0,0,0,0,0,0,27,36,145,0
+137,Dua Lipa,,"['dance pop', 'pop', 'uk pop']",28535676,"Miley Cyrus, Mabel, Anne-Marie, ZAYN, Halsey, Madison Beer, Ellie Goulding, Sia, Camila Cabello, Selena Gomez, Demi Lovato, Ava Max",11,0.212515,0.294207,0,0,12,12,87,0,146,0.318182
+138,Duncan Laurence,,['dutch pop'],327444,"Dean Lewis, Sam Fischer, Zoe Wees, Sara Kays, BANNERS",14,0.12544,0.166718,0,0,5,5,72,0,150,0.15
+139,Dímelo Flow,,"['latin', 'reggaeton', 'reggaeton flow', 'trap latino']",238222,"Milly, Rich Music LTD, Rvssian, Jerry Di",9,0.254658,0.358314,20.503418,4,4,8,100,0,154,0.214286
+140,Eagles,,"['album rock', 'classic rock', 'country rock', 'folk rock', 'heartland rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",7142284,,0,0,0,0,2,0,2,68,32,155,0
+141,Earth,,"['disco', 'funk', 'jazz funk', 'motown', 'quiet storm', 'soul']",3123389,,0,0,0,0,0,0,0,28,37,156,0
+142,Eartha Kitt,,"['adult standards', 'lounge', 'torch song', 'vocal jazz']",129537,,0,0,0,0,0,0,0,29,38,157,0
+143,Ed Sheeran,,"['pop', 'uk pop']",85646784,"Lewis Capaldi, Meghan Trainor, Sam Smith, Niall Horan, ZAYN, Shawn Mendes, James Arthur, Justin Bieber, Camila Cabello, Liam Payne",10,0.22739,0.299398,0,0,10,10,87,0,159,0.388889
+144,El Alfa,,"['dembow', 'latin', 'rap dominicano', 'reggaeton', 'trap latino']",1853033,Rvssian,9,0.230769,0.290024,0,0,1,1,100,0,160,0
+145,Ellie Goulding,,"['dance pop', 'edm', 'electropop', 'indietronica', 'metropopolis', 'pop', 'uk pop']",9963590,"Bebe Rexha, Mabel, Clean Bandit, Anne-Marie, Camila Cabello, Bea Miller",11,0.197727,0.250192,325.449158,11,6,17,87,0,41,0.214286
+146,Elton John,,"['glam rock', 'mellow gold', 'piano rock']",7848573,"Daryl Hall & John Oates, Eagles",1,1,1,6,2,2,4,68,32,161,0
+147,Elvis Presley,,"['rock-and-roll', 'rockabilly']",5871125,Chuck Berry,1,1,1,0,0,1,1,30,26,162,0
+148,ElyOtto,,['weirdcore'],91466,,0,0,0,0,1,0,1,64,0,126,0
+149,Emilia,,['cumbia pop'],255337,"Migrantes, MYA, Rusherking",2,0.8,0.875,438,1,3,4,100,0,29,0.166667
+150,Eminem,,"['detroit hip hop', 'hip hop', 'rap']",48048529,"DMX, Joyner Lucas",2,0.75,0.833333,0,0,2,2,32,0,164,0
+151,Erica Banks,,['trap queen'],46462,,0,0,0,0,1,0,1,16,0,165,0
+152,Farruko,,"['latin', 'reggaeton', 'trap latino']",10943435,"Jowell & Randy, Nicky Jam, Arcangel, Yandel, Wisin",1,1,1,37.477778,7,5,12,100,0,25,0.416667
+153,Fedez,,"['italian adult pop', 'italian pop']",1676642,,0,0,0,0,2,0,2,59,20,104,0
+154,Feid,,"['colombian pop', 'latin', 'pop reggaeton', 'reggaeton', 'reggaeton colombiano', 'trap latino']",699295,"Alex Rose, Manuel Turizo, Rvssian, Jerry Di, Kevin Roldan, Tainy, Dímelo Flow, Lunay",7,0.366071,0.490476,31.185147,1,8,9,100,0,154,0.347222
+155,Fleetwood Mac,,"['album rock', 'classic rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",7190050,"Daryl Hall & John Oates, Eagles",1,1,1,0,0,2,2,68,32,166,0
+156,Fousheé,,['indie r&b'],126471,,0,0,0,0,0,0,0,31,39,167,0
+157,Francesca Michielin,,"['italian adult pop', 'italian indie pop', 'italian pop', 'italian pop rock']",581971,,0,0,0,0,1,0,1,59,20,168,0
+158,Frank Sinatra,,"['adult standards', 'easy listening', 'lounge']",5068565,"Nat King Cole, Perry Como, Andy Williams, Tony Bennett, Bing Crosby, Dean Martin",2,0.8,0.875,0.333333,1,6,7,97,9,170,0.428571
+159,French Montana,,"['gangster rap', 'hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap']",4112326,Meek Mill,18,0.105263,0.131924,52.799206,14,1,15,32,0,41,0.192308
+160,Future,,"['atl hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",10665633,"Gunna, Lil Yachty, French Montana, 21 Savage, Meek Mill, NAV",18,0.118403,0.193426,1.6,1,6,7,32,0,143,0.333333
+161,G Herbo,,"['chicago drill', 'chicago rap', 'drill', 'rap', 'southern hip hop', 'trap']",1288087,Pooh Shiesty,2,0.666667,0.75,7.652137,3,1,4,66,0,11,0.166667
+162,G-Eazy,,"['hip hop', 'indie pop rap', 'oakland hip hop', 'pop', 'pop rap', 'rap']",4930736,"Joyner Lucas, Logic, French Montana, Ty Dolla $ign, Tyla Yaweh",17,0.129197,0.198223,51.287179,1,5,6,32,0,171,0.15
+163,Galantis,,"['dance pop', 'edm', 'electro house', 'pop', 'pop dance', 'tropical house']",3142335,Sam Feldt,1,1,1,4.5,6,1,7,72,0,51,0.238095
+164,Gambi,,"['atl hip hop', 'hip hop', 'pop rap', 'rap']",8303952,"BROCKHAMPTON, Kendrick Lamar, Mac Miller, Kid Cudi",17,0.115877,0.158295,0,0,4,4,32,0,172,0.333333
+165,Gera MX,,"['mexican hip hop', 'rap conciencia']",2267586,,0,0,0,0,0,0,0,33,40,173,0
+166,Giveon,,"['pop', 'r&b']",1594428,"Brent Faiyaz, PARTYNEXTDOOR, Bryson Tiller",20,0.095785,0.136825,0,0,3,3,16,0,174,1
+167,Gjon's Tears,,[],33296,"Daði Freyr, Barbara Pravi, Go_A",1,1,1,1,1,3,4,35,14,175,0.166667
+168,Glass Animals,,"['gauze pop', 'indietronica', 'shiver pop']",2035019,,0,0,0,0,0,0,0,34,41,176,0
+169,Go_A,,['eurovision'],116467,"Daði Freyr, Gjon's Tears",2,0.75,0.833333,0,1,2,3,35,14,175,0.5
+170,Gotye,,['australian pop'],2271473,,0,0,0,0,0,0,0,36,42,177,0
+171,Gradur,,"['francoton', 'french hip hop', 'pop urbaine', 'rap francais']",1425574,"Maes, Ninho",1,1,1,4,3,2,5,6,11,71,0.25
+172,Gunna,,"['atl hip hop', 'hip hop', 'melodic rap', 'rap', 'trap']",3486655,"Roddy Ricch, Don Toliver, Lil Baby, Lil Uzi Vert, 21 Savage, NAV",17,0.111825,0.178481,1210.865389,17,6,23,66,0,41,0.198529
+173,Gusttavo Lima,,"['sertanejo', 'sertanejo universitario']",13511271,"Luan Santana, Jorge & Mateus",1,1,1,0,2,2,4,49,43,178,1
+174,Gwen Stefani,,"['dance pop', 'hip pop', 'pop', 'post-teen pop', 'urban contemporary']",4910679,"Nelly Furtado, Britney Spears, Kylie Minogue",13,0.146588,0.178809,74.5,7,3,10,87,0,41,0.285714
+175,Gym Class Heroes,,"['dance pop', 'pop rap']",1293785,Panic! At The Disco,1,1,1,1,1,1,2,72,0,179,0
+176,Gzuz,,"['deep german hip hop', 'german hip hop', 'hamburg hip hop']",1152871,"Bonez MC, KC Rebell, 187 Strassenbande, KALIM",5,0.384615,0.534444,9.983333,3,4,7,10,2,9,0.2
+177,H.E.R.,,"['alternative r&b', 'dance pop', 'pop', 'r&b']",4326781,"Normani, Kehlani, SZA, Brent Faiyaz",21,0.08779,0.129422,3899.666667,6,4,10,16,0,41,0.238095
+178,HVME,,['slap house'],44338,,0,0,0,0,0,0,0,37,44,180,0
+179,Halsey,,"['dance pop', 'electropop', 'etherpop', 'indie poptimism', 'pop']",16089316,"Lorde, Melanie Martinez, Madison Beer, Ellie Goulding, Camila Cabello, Selena Gomez, Demi Lovato, Bea Miller",11,0.205917,0.273413,992.527079,10,8,18,87,0,41,0.245833
+180,Harry Nach,,"['trap chileno', 'trap latino']",143378,,0,0,0,0,1,0,1,100,0,181,0
+181,Harry Styles,,['pop'],16929807,"One Direction, Lorde, Jonas Brothers, Niall Horan, ZAYN, Shawn Mendes, Halsey, Liam Payne, 5 Seconds of Summer, Conan Gray, The 1975",11,0.204706,0.280364,977.721829,6,11,17,87,0,41,0.236264
+182,Headie One,,['uk hip hop'],343632,,0,0,0,0,1,0,1,91,0,182,0
+183,Henrique & Juliano,,['sertanejo universitario'],13525819,"Jonas Esticado, Israel & Rodolffo, Diego & Victor Hugo",3,0.6,0.722222,16,2,3,5,51,34,138,0.166667
+184,Hippie Sabotage,,"['edm', 'electronic trap']",725941,,0,0,0,0,0,0,0,38,45,183,0
+185,Hozier,,"['irish singer-songwriter', 'modern rock', 'pop']",4862511,"BØRNS, Vance Joy",3,0.571429,0.708333,4,3,2,5,72,0,121,0.333333
+186,Hugo & Guilherme,,['sertanejo pop'],484134,,0,0,0,0,1,0,1,51,34,184,0
+187,ITZY,,['k-pop girl group'],2665284,,0,0,0,0,0,0,0,39,46,185,0
+188,IU,,['k-pop'],5452498,,0,0,0,0,0,0,0,40,47,186,0
+189,Idina Menzel,,"['hollywood', 'show tunes']",360791,,0,0,0,0,0,0,0,41,48,187,0
+190,Imagine Dragons,,"['modern rock', 'pop', 'rock']",36043809,"OneRepublic, Twenty One Pilots, BANNERS",13,0.150519,0.186534,367,1,3,4,72,0,41,0
+191,Ingratax,,['concurso de talentos argentino'],106001,"Boza, Nio Garcia, Manuel Turizo, Sech, Mora, Justin Quiles, Cali Y El Dandee, MYA, Jay Wheeler, Rusherking",5,0.423423,0.529787,0,0,10,10,100,0,191,0.055556
+192,Internet Money,,"['rap', 'trap']",462914,"Don Toliver, Gunna, NAV, DDG, Lil Tecca, Lil Mosey, iann dior, Tyla Yaweh",15,0.137549,0.215174,4387.839946,14,8,22,66,0,41,0.173684
+193,Israel & Rodolffo,,"['sertanejo', 'sertanejo pop', 'sertanejo universitario']",1193957,"Diego & Victor Hugo, Henrique & Juliano",4,0.428571,0.569444,0.5,2,2,4,51,34,138,0.5
+194,J Balvin,,"['latin', 'reggaeton', 'reggaeton colombiano', 'trap latino']",30006178,"Jowell & Randy, Maluma, Arcangel, Nicky Jam, Yandel, Manuel Turizo, Wisin, Piso 21, Farruko, Justin Quiles, Cali Y El Dandee, Ozuna",7,0.416667,0.592653,25.82395,2,12,14,100,0,32,0.275641
+195,J. Cole,,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",14573804,"Baby Keem, Kid Cudi, Kendrick Lamar, Meek Mill, Big Sean",17,0.12024,0.17426,12.813095,3,5,8,32,0,88,0.309524
+196,JACKBOYS,,"['rap', 'trap']",449405,"Don Toliver, Lil Yachty, Gunna, NAV",18,0.101863,0.154947,0,0,4,4,66,0,192,0.666667
+197,JP Saxe,,"['alt z', 'canadian contemporary r&b', 'electropop', 'pop', 'pop rock']",293816,"Sam Fischer, Alexander 23",2,0.75,0.833333,181.343939,7,2,9,72,0,15,0.166667
+198,Jack Harlow,,"['deep underground hip hop', 'kentucky hip hop', 'pop rap', 'rap']",1192888,"Mustard, Cordae, Lil Yachty, DDG, Lil Uzi Vert, Ty Dolla $ign, Tory Lanez, Tyla Yaweh",17,0.127551,0.211035,18,1,8,9,66,0,193,0.138889
+199,James Arthur,,"['pop', 'talent show', 'uk pop']",8683038,"JP Saxe, Dean Lewis, Lewis Capaldi, Niall Horan",12,0.174,0.223733,1865.073435,4,4,8,72,0,41,0.238095
+200,Jamie Miller,,['pop soul'],104949,,0,0,0,0,0,0,0,42,49,194,0
+201,Jason Derulo,,"['dance pop', 'pop', 'pop rap', 'post-teen pop']",10081952,,0,0,0,0,3,0,3,87,0,18,0
+202,Jason Mraz,,"['acoustic pop', 'neo mellow', 'pop', 'pop rock']",6261764,John Mayer,1,1,1,183,3,1,4,87,0,17,0
+203,Jawsh 685,,['nz pop'],102351,"Sam Feldt, Tones And I",5,0.375,0.494444,0,0,2,2,72,0,196,0.5
+204,Jay Wheeler,,"['latin', 'reggaeton', 'trap latino']",1901262,"Alex Rose, Milly, Mora, Dímelo Flow, Tainy",10,0.251429,0.38483,4.944444,1,5,6,100,0,189,0.133333
+205,Jerry Di,,"['cubaton', 'dominican pop', 'pop venezolano', 'reggaeton', 'reggaeton flow', 'trap latino']",158881,,0,0,0,0,3,0,3,100,0,151,0.666667
+206,Jhay Cortez,,"['latin', 'reggaeton', 'trap latino']",2692470,"Alex Rose, Nio Garcia, Myke Towers, Lunay, Rvssian, Anuel AA, Kevin Roldan, Rauw Alejandro, Tainy",8,0.318182,0.494796,99.139411,12,9,21,100,0,32,0.516484
+207,Jhené Aiko,,"['alternative r&b', 'dance pop', 'pop', 'pop rap', 'r&b', 'urban contemporary']",4853949,Bryson Tiller,21,0.087087,0.112851,854.5,5,1,6,16,0,41,0.25
+208,Joel Corry,,"['dance pop', 'pop', 'pop dance', 'tropical house', 'uk dance']",219754,"twocolors, Mabel, Regard, Topic",13,0.147351,0.181622,0,0,4,4,92,0,198,0.416667
+209,John Legend,,"['neo soul', 'pop', 'pop soul', 'r&b', 'urban contemporary']",5910198,,0,0,0,0,1,0,1,72,0,22,0
+210,John Lennon,,"['album rock', 'art rock', 'beatlesque', 'classic rock', 'folk rock', 'mellow gold', 'rock', 'soft rock']",4417570,"Paul McCartney, The Beach Boys",3,0.5,0.633333,2,2,2,4,68,32,200,0.166667
+211,John Mayer,,"['neo mellow', 'pop rock', 'singer-songwriter']",5250947,Jason Mraz,1,1,1,0,1,1,2,87,0,17,0
+212,Joji,,"['alternative r&b', 'pop', 'viral pop']",4929660,"BROCKHAMPTON, Dominic Fike",2,0.75,0.833333,0,0,2,2,64,0,201,0
+213,Joker Bra,,['german hip hop'],190616,,0,0,0,0,0,0,0,43,50,202,0
+214,Jonas Brothers,,"['boy band', 'dance pop', 'pop', 'post-teen pop']",5591393,Demi Lovato,12,0.178462,0.209054,70.664989,9,1,10,87,0,41,0.277778
+215,Jonas Esticado,,"['forro', 'sertanejo', 'sertanejo pop', 'sertanejo universitario']",1360114,"Matheus Fernandes, Wesley Safadão",4,0.461538,0.597222,31.333333,8,2,10,51,34,138,0.25
+216,Jorge & Mateus,,"['sertanejo', 'sertanejo universitario']",15302226,"Luan Santana, Gusttavo Lima",1,1,1,0,2,2,4,49,43,178,1
+217,José Feliciano,,"['bolero', 'latin pop', 'puerto rican pop']",247245,,0,0,0,0,0,0,0,44,51,203,0
+218,Journey,,"['album rock', 'classic rock', 'hard rock', 'mellow gold', 'rock', 'soft rock']",3841560,,0,0,0,0,1,0,1,68,32,204,0
+219,Jowell & Randy,,"['latin', 'latin hip hop', 'perreo', 'reggaeton', 'reggaeton flow', 'trap latino']",3007796,,0,0,0,0,8,0,8,100,0,24,0.571429
+220,Joyner Lucas,,"['boston hip hop', 'hip hop', 'pop rap', 'rap']",1758975,Cordae,1,1,1,4,4,1,5,32,0,163,0.1
+221,João Gomes,,[],807973,"Jonas Esticado, Raí Saia Rodada, Tarcísio do Acordeon, Mari Fernandez, Matheus Fernandes",5,0.473684,0.698148,0,0,5,5,51,34,207,0.6
+222,Juanfran,,"['dominican pop', 'pop reggaeton', 'urbano espanol']",119256,Milly,1,1,1,0,0,1,1,100,0,208,0
+223,Juice WRLD,,"['chicago rap', 'melodic rap']",19872480,"Trippie Redd, DaBaby, Don Toliver, Lil Yachty, Lil Tecca, Lil Uzi Vert, Lil Mosey, 6ix9ine, YNW Melly, NAV",16,0.123843,0.205919,192.627778,1,10,11,66,0,41,0.336364
+224,Juju,,['cumbia sonidera'],13802,,0,0,0,0,1,0,1,10,2,209,0
+225,Justin Bieber,,"['canadian pop', 'pop']",50928824,"Liam Payne, One Direction, Jonas Brothers, ZAYN, Niall Horan, Shawn Mendes, Camila Cabello, Selena Gomez, Khalid, Demi Lovato, Bazzi",10,0.229358,0.300113,49.811169,1,11,12,87,0,158,0.393939
+226,Justin Quiles,,"['latin', 'reggaeton', 'trap latino']",2987994,"Wisin, Rvssian, Farruko, Kevin Roldan",9,0.267176,0.388515,4.801659,3,4,7,100,0,32,0.166667
+227,Justin Timberlake,,"['dance pop', 'pop']",11241025,"Gwen Stefani, Nelly Furtado, Black Eyed Peas, *NSYNC",14,0.128793,0.160617,185,3,4,7,87,0,41,0.25
+228,Justin Wellington,,"['melanesian pop', 'pacific islands pop', 'png pop']",22262,,0,0,0,0,0,0,0,45,52,210,0
+229,K CAMP,,"['atl hip hop', 'hip hop', 'melodic rap', 'pop r&b', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap']",1368571,,0,0,0,0,2,0,2,16,0,14,0
+230,K/DA,,['k-pop girl group'],1321105,"Red Velvet, TWICE, BLACKPINK",3,0.6,0.722222,0,1,3,4,8,4,77,0.833333
+231,KALIM,,"['latin', 'latin arena pop', 'latin pop', 'mexican pop', 'rock en espanol']",1528676,,0,0,0,0,2,0,2,10,2,2,0
+232,KAROL G,,"['latin', 'reggaeton', 'reggaeton colombiano', 'trap latino']",18813844,"Nio Garcia, Manuel Turizo, Myke Towers, Rvssian, Anuel AA, Kevin Roldan, Jhay Cortez, Sebastian Yatra, Ozuna, Lunay",6,0.406977,0.54619,3135.012498,8,10,18,100,0,32,0.406593
+233,KASIMIR1441,,"['german alternative rap', 'german hip hop', 'german trap', 'tekk']",202436,,0,0,0,0,0,0,0,46,53,211,0
+234,KC Rebell,,"['german drill', 'german hip hop']",1115696,"Zuna, Bausa, Kontra K, Dardan, RAF Camora",4,0.428571,0.577778,29.75,8,5,13,10,2,9,0.236364
+235,KHEA,,"['argentine hip hop', 'trap argentino', 'trap latino', 'trap triste']",3364936,"Bizarrap, Trueno",1,1,1,0,2,2,4,94,17,97,1
+236,KSI,,['uk hip hop'],2108117,"S1mba, Stormzy, Tion Wayne",2,0.714286,0.8,0,0,3,3,91,0,216,0
+237,Kali Uchis,,"['colombian pop', 'pop']",2136847,"SZA, WILLOW",23,0.075065,0.102945,178,3,2,5,16,0,41,0.5
+238,Kane Brown,,"['contemporary country', 'country', 'country road']",3615409,"Luke Combs, Morgan Wallen, Dan + Shay",1,1,1,0,3,3,6,57,31,133,1
+239,Kanye West,,"['chicago rap', 'rap']",15226801,"J. Cole, Baby Keem, Kid Cudi, BROCKHAMPTON, Kendrick Lamar, Meek Mill, Big Sean",17,0.120989,0.182505,0,0,7,7,32,0,217,0.261905
+240,Katy Perry,,"['dance pop', 'pop', 'pop rap', 'post-teen pop']",19388108,"Miley Cyrus, Gwen Stefani, P!nk, Kelly Clarkson, Selena Gomez, Demi Lovato, Britney Spears",12,0.187433,0.246641,174.682114,3,7,10,87,0,46,0.263889
+241,Kawe,,['brazilian hip hop'],508909,,0,0,0,0,1,0,1,56,54,218,0
+242,Kehlani,,"['dance pop', 'pop', 'r&b']",5073104,"H.E.R., Normani",22,0.08078,0.109616,913.203463,8,2,10,16,0,41,0.214286
+243,Kelly Clarkson,,"['dance pop', 'neo mellow', 'pop', 'pop rock', 'post-teen pop', 'talent show']",8034527,Leona Lewis,1,1,1,33.211816,9,1,10,87,0,21,0.194444
+244,Kendrick Lamar,,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",18399860,"J. Cole, Childish Gambino, Bas, Big Sean",16,0.12959,0.179262,571.309407,8,4,12,32,0,88,0.155556
+245,Kevin Roldan,,"['latin', 'latin hip hop', 'reggaeton', 'reggaeton colombiano', 'reggaeton flow', 'trap latino']",4147473,"Alex Rose, Nio Garcia, Myke Towers, Rvssian, Lunay",8,0.294118,0.416224,32.259114,16,5,21,100,0,32,0.308333
+246,Khalid,,"['pop', 'pop r&b']",14379161,"Dominic Fike, H.E.R., Kehlani, ZAYN, blackbear, benny blanco, Bazzi, Pink Sweat$, Normani",11,0.22365,0.293861,3419.978788,2,9,11,16,0,41,0.133333
+247,Kid Cudi,,"['hip hop', 'ohio hip hop', 'pop rap', 'rap']",5146137,"Childish Gambino, Mac Miller, Baby Keem, Bas, Big Sean",16,0.129683,0.18204,316.246645,5,5,10,32,0,88,0.178571
+248,Kina,,"['sad lo-fi', 'sad rap']",675356,,0,0,0,0,1,0,1,66,0,57,0
+249,KitschKrieg,,"['german hip hop', 'german pop', 'hamburg hip hop']",169764,"Ufo361, Capital Bra, Bonez MC, Gzuz, Bausa, Dardan, RAF Camora",3,0.625,0.722222,40.083333,2,7,9,10,2,9,0.261905
+250,Kontra K,,"['christlicher rap', 'german hip hop']",1848913,"Ufo361, Dardan, RAF Camora, 187 Strassenbande, KC Rebell",4,0.441176,0.583333,7.166667,1,5,6,10,2,9,0.35
+251,Kygo,,"['edm', 'pop', 'pop dance', 'tropical house']",7710034,"Galantis, The Chainsmokers, Sam Feldt, Robin Schulz",14,0.147176,0.186338,58.666667,4,4,8,72,0,55,0.214286
+252,Kylie Minogue,,"['australian dance', 'australian pop', 'dance pop', 'electropop', 'eurodance', 'europop', 'new wave pop', 'pop']",1360151,,0,0,0,0,3,0,3,87,0,23,1
+253,Labrinth,,"['indie poptimism', 'pop']",1722474,"BØRNS, Tom Odell, Madison Beer, The Neighbourhood, WILLOW, Noah Cyrus, Bea Miller",11,0.196121,0.257054,134.690476,1,7,8,87,0,220,0.107143
+254,Lady Gaga,,"['dance pop', 'pop']",19320868,"Lorde, Miley Cyrus, Katy Perry, MARINA, Ellie Goulding, Kelly Clarkson, Sia, Gwen Stefani, Demi Lovato, Britney Spears",12,0.194354,0.27314,13.5,1,10,11,87,0,47,0.177778
+255,Lana Del Rey,,"['art pop', 'pop']",14127051,"BØRNS, Lorde, MARINA, The Neighbourhood, WILLOW, Labrinth",12,0.17055,0.223994,0,0,6,6,87,0,221,0.166667
+256,Lauv,,"['dance pop', 'electropop', 'pop']",4559510,Tate McRae,12,0.154255,0.178967,243.189593,1,1,2,87,0,41,0
+257,Lele Pons,,"['latin pop', 'viral pop']",831351,"Becky G, ROSALÍA, Natti Natasha",8,0.30303,0.384196,589,2,3,5,100,0,35,0.166667
+258,Leona Lewis,,"['british soul', 'dance pop', 'europop', 'neo mellow', 'pop', 'post-teen pop', 'talent show', 'urban contemporary']",2951500,Kelly Clarkson,1,1,1,4.574128,4,1,5,87,0,21,0.25
+259,Lewis Capaldi,,"['pop', 'uk pop']",8657230,"James Arthur, Dean Lewis, JP Saxe",13,0.149613,0.186796,1710.619467,4,3,7,72,0,41,0.35
+260,Liam Payne,,"['dance pop', 'pop', 'post-teen pop']",8334831,"One Direction, Niall Horan, ZAYN, Shawn Mendes, Harry Styles, Camila Cabello, 5 Seconds of Summer",11,0.201389,0.260249,193.10294,11,7,18,87,0,41,0.4
+261,Lil Baby,,"['atl hip hop', 'atl trap', 'rap', 'trap']",8321290,"G Herbo, Roddy Ricch, Gunna, Lil Yachty, 21 Savage, NAV, Pooh Shiesty",17,0.111969,0.182312,501.107877,5,7,12,66,0,41,0.305556
+262,Lil Mosey,,"['melodic rap', 'rap', 'rap conscient', 'trap', 'vapor trap']",3970785,"Cordae, NAV, Lil Tecca, iann dior, YNW Melly, Tyla Yaweh",15,0.136685,0.204829,4711.782858,18,6,24,66,0,41,0.236842
+263,Lil Nas X,,"['lgbtq+ hip hop', 'pop']",6576617,"Cardi B, Megan Thee Stallion, DaBaby, Cordae, Don Toliver, Jack Harlow, Trevor Daniel, Internet Money, benny blanco, Lil Tecca, Lil Mosey, The Kid LAROI, Tyla Yaweh, Ashnikko",13,0.197002,0.29892,0,0,14,14,66,0,223,0.153846
+264,Lil Peep,,"['emo rap', 'lgbtq+ hip hop']",7881475,,0,0,0,0,0,0,0,47,55,224,0
+265,Lil Tecca,,"['melodic rap', 'rap', 'trap']",4275478,"Roddy Ricch, Lil Tjay, DaBaby, Cordae, Trippie Redd, Polo G, Internet Money, Lil Mosey, YNW Melly, NAV",16,0.123755,0.20544,2696.658369,14,10,24,66,0,41,0.3
+266,Lil Tjay,,"['brooklyn drill', 'melodic rap', 'nyc rap']",3862003,"Roddy Ricch, A Boogie Wit da Hoodie, DDG, Lil Tecca, Lil Mosey, YNW Melly, Sleepy Hallow",16,0.122708,0.190306,145.439087,5,7,12,66,0,41,0.344444
+267,Lil Uzi Vert,,"['melodic rap', 'philly rap', 'rap', 'trap']",12101477,"Trippie Redd, Don Toliver, Lil Yachty, Gunna, NAV, Playboi Carti",17,0.111324,0.17465,198.843758,9,6,15,66,0,41,0.234848
+268,Lil Wayne,,"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",10903447,"Meek Mill, French Montana, Big Sean",17,0.116779,0.156323,0,2,3,5,32,0,41,0.6
+269,Lil Yachty,,"['atl hip hop', 'hip hop', 'melodic rap', 'rap', 'trap', 'viral rap']",7481566,NAV,18,0.100462,0.136927,864.006061,17,1,18,66,0,41,0.139706
+270,Linkin Park,,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal']",20072933,,0,0,0,0,0,0,0,48,56,225,0
+271,Little Mix,,"['dance pop', 'girl group', 'pop', 'post-teen pop', 'talent show', 'uk pop']",9583377,"ZAYN, Leona Lewis, Camila Cabello, Liam Payne, Demi Lovato",11,0.200461,0.252436,149.062313,2,5,7,87,0,41,0.380952
+272,Lizzo,,"['dance pop', 'escape room', 'minnesota hip hop', 'pop', 'trap queen']",4122226,"Normani, Saweetie, Megan Thee Stallion, Cardi B",24,0.071828,0.108707,0,1,4,5,16,0,114,0.5
+273,Logic,,"['conscious hip hop', 'dmv rap', 'hip hop', 'pop rap', 'rap']",5505659,"Big Sean, G-Eazy, Bas, Joyner Lucas",16,0.131403,0.182207,39.964794,1,4,5,32,0,171,0.166667
+274,Lorde,,"['art pop', 'dance pop', 'electropop', 'metropopolis', 'nz pop', 'pop']",8389774,"BØRNS, MARINA",13,0.137549,0.162189,320.675175,8,2,10,87,0,41,0.188889
+275,Los Legendarios,,"['reggaeton', 'trap latino']",47211,Milly,1,1,1,0,0,1,1,100,0,226,0
+276,Luan Santana,,"['sertanejo', 'sertanejo pop', 'sertanejo universitario']",5565362,"Gusttavo Lima, Jorge & Mateus",1,1,1,0,2,2,4,49,43,178,1
+277,Luciano,,"['canzone napoletana', 'classical tenor', 'italian tenor', 'opera', 'operatic pop']",669436,,0,0,0,0,0,0,0,50,57,227,0
+278,Luke Combs,,"['contemporary country', 'country']",5588175,"Kane Brown, Morgan Wallen, Dan + Shay",1,1,1,0,3,3,6,57,31,133,1
+279,Lunay,,"['latin', 'latin hip hop', 'latin pop', 'reggaeton', 'reggaeton flow', 'trap latino']",5262623,"Alex Rose, Nio Garcia, Yandel, Myke Towers, Rvssian, Anuel AA, Kevin Roldan, Jhay Cortez, Ozuna, Tainy",8,0.324074,0.513844,1119.343801,18,10,28,100,0,32,0.342105
+280,Luísa Sonza,,"['funk carioca', 'pop nacional']",2069095,"Anitta, PEDRO SAMPAIO",2,0.75,0.833333,5,2,2,4,90,8,61,0
+281,MARINA,,"['dance pop', 'electropop', 'metropopolis', 'pop', 'uk alternative pop']",3042038,"Mother Mother, Melanie Martinez",12,0.158759,0.191225,201.723389,5,2,7,87,0,41,0.2
+282,MAX,,"['dance pop', 'pop']",4212713,"Bebe Rexha, Mabel, Clean Bandit, Anne-Marie, Sabrina Carpenter, Madison Beer, Ellie Goulding, Camila Cabello",11,0.2,0.260824,1928.270835,2,8,10,87,0,41,0.266667
+283,MC Kevin o Chris,,"['funk 150 bpm', 'funk carioca']",2788848,"Niack, PEDRO SAMPAIO",3,0.555556,0.666667,0,0,2,2,90,8,228,0
+284,MC Zaquin,,"['funk bh', 'funk carioca']",163592,Niack,1,1,1,0,0,1,1,90,8,229,0
+285,MEDUZA,,"['edm', 'pop dance', 'pop house', 'tropical house']",450850,"twocolors, Topic, Regard",1,1,1,0,0,3,3,92,0,230,0.833333
+286,MYA,,"['dance pop', 'hip hop', 'hip pop', 'neo soul', 'pop r&b', 'r&b', 'urban contemporary']",1022115,,0,0,0,0,3,0,3,100,0,27,0.166667
+287,Mabel,,"['dance pop', 'edm', 'pop', 'pop dance', 'post-teen pop', 'tropical house', 'uk pop']",1425814,"Anne-Marie, Ava Max",12,0.168932,0.204288,352.970635,8,2,10,87,0,41,0.357143
+288,Mac Miller,,"['hip hop', 'pittsburgh rap', 'rap']",6392312,"Childish Gambino, Kid Cudi, BROCKHAMPTON, Kendrick Lamar, Bas",16,0.124567,0.169269,117.166667,3,5,8,32,0,88,0.333333
+289,Machine Gun Kelly,,"['ohio hip hop', 'pop rap']",4027242,"iann dior, jxdn",15,0.132777,0.171087,0,0,2,2,66,0,231,1
+290,Macklemore & Ryan Lewis,,"['pop rap', 'seattle hip hop']",2562102,Gym Class Heroes,2,0.666667,0.75,0,0,1,1,72,0,232,0
+291,Madame,,['otacore'],41432,,0,0,0,0,1,0,1,66,0,233,0
+292,Madison Beer,,"['alt z', 'dance pop', 'electropop', 'pop', 'post-teen pop']",3694140,"Tate McRae, Bazzi, Bea Miller, Camila Cabello",10,0.214286,0.261207,6995.39302,18,4,22,87,0,41,0.176471
+293,Maes,,['modern rock'],322121,,0,0,0,0,3,0,3,6,11,70,0.666667
+294,Majestic,,"['house', 'pop dance', 'uk dance']",34868,,0,0,0,0,1,0,1,70,58,234,0
+295,Major Lazer,,"['dance pop', 'edm', 'electro house', 'moombahton', 'pop', 'pop dance', 'pop rap', 'tropical house']",6242696,"DJ Snake, Galantis",2,0.75,0.833333,8,2,2,4,72,0,53,0.166667
+296,Malu,,"['latin', 'reggaeton', 'reggaeton colombiano']",27619842,"Nio Garcia, Manuel Turizo, Piso 21, J Balvin, Sebastian Yatra, Natti Natasha, Cali Y El Dandee, Ozuna, Kevin Roldan",6,0.455696,0.572685,36,1,9,10,100,0,235,0.266667
+297,Maluma,,"['latin', 'reggaeton', 'reggaeton colombiano']",27619842,"Nio Garcia, Manuel Turizo, Piso 21, J Balvin, Sebastian Yatra, Natti Natasha, Cali Y El Dandee, Ozuna, Kevin Roldan",6,0.454545,0.574762,257.878533,2,9,11,100,0,32,0.333333
+298,Manuel Turizo,,"['colombian pop', 'latin', 'reggaeton', 'reggaeton colombiano', 'trap latino']",8225523,"Nio Garcia, Rvssian, KAROL G, Piso 21, Wisin, Sebastian Yatra, Ozuna, Lunay",6,0.426829,0.54381,765.752546,13,8,21,100,0,32,0.233333
+299,Marc Seguí,,['spanish pop'],54509,,0,0,0,0,1,0,1,100,0,33,0
+300,Mari Fernandez,,"['forro', 'sertanejo pop']",28142,"Jonas Esticado, Matheus Fernandes",5,0.375,0.547222,0,4,2,6,51,34,138,0.55
+301,Mariah Carey,,"['dance pop', 'pop', 'r&b', 'urban contemporary']",7054602,,0,0,0,0,0,0,0,52,59,236,0
+302,Maroon 5,,"['pop', 'pop rock']",33154220,"Clean Bandit, Jonas Brothers, Shawn Mendes, Kelly Clarkson, OneRepublic, Jason Derulo, Jason Mraz",11,0.202561,0.263547,1681.572283,3,7,10,87,0,41,0.041667
+303,Marshmello,,"['brostep', 'edm', 'pop', 'pop dance', 'progressive electro house']",32122154,"Kygo, benny blanco, Galantis, The Chainsmokers",13,0.170664,0.218139,0,1,4,5,72,0,55,0.416667
+304,Martin Garrix,,"['dance pop', 'dutch edm', 'edm', 'pop', 'pop dance', 'progressive house', 'tropical house']",15100642,,0,0,0,0,3,0,3,72,0,54,0
+305,Masked Wolf,,['australian hip hop'],439460,"Arizona Zervas, Tyla Yaweh",16,0.119781,0.156362,0,0,2,2,66,0,237,0.5
+306,Master KG,,['south african house'],258653,,0,0,0,0,0,0,0,53,60,238,0
+307,Matheus Fernandes,,['sertanejo pop'],115617,"Jonas Esticado, Mari Fernandez",5,0.375,0.547222,5,5,2,7,51,34,138,0.5
+308,Matthew Wilder,,['new wave pop'],30973,Wham!,1,1,1,0,0,1,1,97,9,239,0
+309,Matuê,,"['r&b brasileiro', 'rap cearense', 'trap brasileiro']",3564903,,0,0,0,0,0,0,0,54,61,240,0
+310,Mc Davi,,"['funk carioca', 'funk ostentacao', 'funk paulista']",2684192,,0,0,0,0,0,0,0,55,62,241,0
+311,Mc Poze do Rodo,,['funk carioca'],668365,Kawe,1,1,1,0,0,1,1,56,54,242,0
+312,Mc Zaac,,"['funk carioca', 'funk pop']",1567313,,0,0,0,0,2,0,2,90,8,60,0
+313,Meek Mill,,"['hip hop', 'philly rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",5417274,"Tory Lanez, French Montana, Big Sean",17,0.117568,0.160298,1089.890958,12,3,15,32,0,41,0.189394
+314,Megan Thee Stallion,,"['houston rap', 'pop', 'trap queen']",5176892,"BIA, Cardi B, Normani",24,0.071799,0.105929,184,5,3,8,16,0,114,0.309524
+315,Meghan Trainor,,"['dance pop', 'hip pop', 'pop', 'post-teen pop']",10758834,"Becky G, Ariana Grande, Sam Smith, Shawn Mendes, Maroon 5, Selena Gomez, 5 Seconds of Summer",11,0.231383,0.306169,9974.005043,8,7,15,87,0,41,0.120879
+316,Melanie Martinez,,"['alt z', 'electropop', 'pop']",11367462,"Lorde, Mother Mother, MARINA, Halsey, Madison Beer, Conan Gray, Bea Miller",11,0.188108,0.245651,764.781481,4,7,11,87,0,41,0.222222
+317,Michael Bublé,,"['adult standards', 'canadian pop', 'jazz pop', 'lounge']",4759441,"Nat King Cole, Perry Como, Andy Williams, Tony Bennett, Frank Sinatra, Dean Martin",2,0.75,0.833333,0,0,6,6,97,9,243,0.466667
+318,Michael Jackson,,"['pop', 'r&b', 'soul']",19940510,"Stevie Wonder, The Jackson 5, Wham!",1,1,1,0,0,3,3,97,9,246,0.166667
+319,Migos,,"['atl hip hop', 'pop rap', 'rap', 'trap']",11804241,"Gunna, Lil Yachty, Lil Baby, Lil Uzi Vert, A$AP Ferg, 21 Savage, NAV",18,0.101993,0.167332,372.585714,5,7,12,66,0,41,0.277778
+320,Migrantes,,['cumbia pop'],125420,,0,0,0,0,2,0,2,100,0,28,0.5
+321,Miksu / Macloud,,['german hip hop'],32741,"Zuna, KALIM",2,0.75,0.833333,2,2,2,4,10,2,7,0.166667
+322,Miley Cyrus,,"['dance pop', 'pop', 'post-teen pop']",16217493,"Jonas Brothers, Kelly Clarkson, Camila Cabello, Selena Gomez, Demi Lovato, Britney Spears",11,0.201622,0.257417,2255.409046,9,6,15,87,0,41,0.219697
+323,Milly,,['boston hip hop'],17511,,0,0,0,0,5,0,5,100,0,153,0.15
+324,Mimi Webb,,"['alt z', 'pop', 'uk pop']",155615,,0,0,0,0,2,0,2,72,0,148,0
+325,Money Man,,"['memphis hip hop', 'rap', 'southern hip hop', 'trap']",362421,,0,0,0,0,2,0,2,66,0,10,0
+326,Mora,,"['reggaeton', 'trap latino']",177810,"Rvssian, Dímelo Flow, Harry Nach, Tainy",9,0.277419,0.389323,7.041792,2,4,6,100,0,188,0.166667
+327,Morgan Wallen,,['contemporary country'],2324925,"Luke Combs, Kane Brown, Dan + Shay",1,1,1,0,3,3,6,57,31,133,1
+328,Mother Mother,,['vancouver indie'],2245283,Beach Bunny,16,0.096936,0.109756,12.922619,3,1,4,87,0,41,0.25
+329,Murda,,"['canadian hip hop', 'canadian trap']",121451,Lil Yachty,19,0.091767,0.118516,0,0,1,1,66,0,247,0
+330,Mustard,,"['cali rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",897594,"Ty Dolla $ign, French Montana",18,0.112767,0.156315,28,3,2,5,32,0,41,0.166667
+331,Myke Towers,,['trap latino'],6714396,"Alex Rose, Nio Garcia, Lunay, Rvssian, Anuel AA, Rauw Alejandro, Jhay Cortez, Kevin Roldan, Dalex",8,0.307018,0.478129,268.137777,11,9,20,100,0,32,0.537879
+332,Mykola Dmytrovych Leontovych,,"['post-romantic era', 'ukrainian classical']",2421,,0,0,0,0,0,0,0,58,63,248,0
+333,Måneskin,,"['indie rock italiano', 'italian pop']",4124801,"Francesca Michielin, Fedez",1,1,1,0,0,2,2,59,20,249,0
+334,NAV,,"['canadian hip hop', 'canadian trap', 'hip hop', 'melodic rap', 'pop rap', 'rap', 'toronto rap', 'trap']",2686699,"Don Toliver, Lil Yachty, Gunna, Lil Tecca, 21 Savage",17,0.11161,0.175607,2416.383731,27,5,32,66,0,41,0.183761
+335,NF,,"['hip hop', 'pop rap', 'rap']",6063618,"Arizona Zervas, Joyner Lucas",16,0.115637,0.140694,0,0,2,2,32,0,250,0
+336,NLE Choppa,,['memphis hip hop'],3551267,DDG,20,0.084139,0.107152,1.370635,1,1,2,66,0,41,0
+337,Nat King Cole,,"['adult standards', 'lounge', 'soul', 'vocal jazz']",1669259,"Andy Williams, Perry Como, Dean Martin, Bing Crosby",2,0.75,0.833333,0.333333,3,4,7,97,9,137,0.5
+338,Natalie Taylor,,[],123256,"Dean Lewis, JP Saxe",14,0.1235,0.15148,0,0,2,2,72,0,251,0.5
+339,Nathan Evans,,[],157697,,0,0,0,0,0,0,0,60,64,252,0
+340,Natti Natasha,,"['latin', 'latin pop', 'rap latina', 'reggaeton', 'trap latino']",6617829,"Yandel, Manuel Turizo, KAROL G, Anuel AA, Farruko, Tainy, Justin Quiles, Ozuna, Lunay",7,0.393258,0.542653,1111.128864,5,9,14,100,0,32,0.186813
+341,Nea,,"['scandipop', 'swedish pop']",39310,,0,0,0,0,1,0,1,72,0,147,0
+342,Nelly Furtado,,"['canadian latin', 'canadian pop', 'dance pop', 'pop', 'pop rap']",2773109,"Black Eyed Peas, Kylie Minogue, Justin Timberlake, Gwen Stefani, Britney Spears",13,0.147084,0.186472,598.75,4,5,9,87,0,41,0.45
+343,Niack,,['funk carioca'],356870,,0,0,0,0,4,0,4,90,8,139,0
+344,Niall Horan,,"['dance pop', 'pop', 'post-teen pop']",7763939,"One Direction, Jonas Brothers, Anne-Marie, ZAYN, Shawn Mendes, Harry Styles, Liam Payne, 5 Seconds of Summer",11,0.202326,0.265517,2230.432751,14,8,22,87,0,41,0.261905
+345,Nicki Minaj,,"['dance pop', 'hip pop', 'pop', 'pop rap', 'queens hip hop']",22687291,"BIA, Cardi B, Megan Thee Stallion, Kehlani, Jhené Aiko, Normani",22,0.083179,0.132999,434.833333,2,6,8,16,0,114,0.238095
+346,Nicky Jam,,"['latin', 'latin hip hop', 'reggaeton', 'trap latino']",15215580,"Jowell & Randy, Arcangel, Yandel, Wisin, Farruko",1,1,1,1.675433,6,5,11,100,0,25,0.595238
+347,Ninho,,"['french hip hop', 'pop urbaine']",4968828,"Gradur, Maes",1,1,1,0,2,2,4,6,11,71,0.5
+348,Nio Garcia,,"['latin', 'reggaeton', 'trap latino']",2320814,"Myke Towers, Manuel Turizo, Rvssian, KAROL G, Anuel AA, Kevin Roldan, Jhay Cortez, Ozuna, Lunay",7,0.360825,0.512653,250.632505,17,9,26,100,0,32,0.345588
+349,Nirvana,,"['alternative rock', 'grunge', 'permanent wave', 'rock']",13667510,,0,0,0,0,0,0,0,61,65,253,0
+350,Noah Cyrus,,"['alt z', 'dance pop', 'pop', 'post-teen pop']",908250,"JP Saxe, Ashe, Alexander 23, Bea Miller",12,0.155417,0.191468,11.866667,2,4,6,87,0,219,0.166667
+351,Normani,,"['dance pop', 'pop', 'post-teen pop', 'r&b', 'urban contemporary']",1432371,Kehlani,23,0.074774,0.094995,617.736797,12,1,13,16,0,41,0.136364
+352,Oasis,,"['beatlesque', 'britpop', 'madchester', 'permanent wave', 'rock']",6636197,,0,0,0,0,1,0,1,72,0,122,0
+353,Octavian,,"['afroswing', 'london rap', 'uk alternative hip hop', 'uk hip hop']",216513,,0,0,0,0,1,0,1,91,0,213,0
+354,Ofenbach,,"['edm', 'electro house', 'new french touch', 'pop', 'pop dance', 'tropical house']",442121,"Sam Feldt, Robin Schulz",1,1,1,0,1,2,3,72,0,52,0.5
+355,Olivia Rodrigo,,['pop'],8548958,"Tate McRae, Ashe, Niall Horan, Sabrina Carpenter, Madison Beer, Harry Styles, Noah Cyrus, 5 Seconds of Summer, Conan Gray, Mimi Webb",11,0.195149,0.271431,0,0,10,10,87,0,254,0.166667
+356,One Direction,,"['boy band', 'pop', 'post-teen pop', 'talent show']",23222900,"Jonas Brothers, ZAYN, Niall Horan, Liam Payne, 5 Seconds of Summer, Demi Lovato, Little Mix",11,0.201156,0.257991,391.868892,7,7,14,87,0,41,0.366667
+357,OneRepublic,,"['dance pop', 'piano rock', 'pop', 'pop rock']",12453027,"James Arthur, Maroon 5, Imagine Dragons",12,0.17505,0.221618,725.394444,3,3,6,72,0,41,0.083333
+358,Os Barões Da Pisadinha,,"['forro', 'piseiro']",4752502,"Jonas Esticado, Diego & Victor Hugo, Wesley Safadão, Raí Saia Rodada, Tarcísio do Acordeon, Israel & Rodolffo, Hugo & Guilherme",2,0.769231,0.85,0,0,7,7,51,34,255,0.166667
+359,Ozuna,,"['latin', 'puerto rican pop', 'reggaeton', 'trap latino']",29792631,"Nio Garcia, Yandel, Manuel Turizo, Lunay, Rvssian, KAROL G, Anuel AA, Kevin Roldan, Bad Bunny, Rauw Alejandro, Jhay Cortez, Tainy",7,0.384615,0.569796,246.828937,11,12,23,100,0,32,0.330882
+360,P!nk,,"['dance pop', 'pop']",11832929,"Gwen Stefani, Kelly Clarkson, Katy Perry, Leona Lewis",13,0.15942,0.200961,5.333333,2,4,6,87,0,46,0.3
+361,PARTYNEXTDOOR,,"['pop', 'pop rap', 'r&b', 'rap', 'toronto rap', 'trap', 'urban contemporary']",3251394,"Jhené Aiko, Tory Lanez, Brent Faiyaz, Bryson Tiller",19,0.104819,0.155473,4754.459524,8,4,12,16,0,41,0.236111
+362,PEDRO SAMPAIO,,['funk carioca'],1086873,"Luísa Sonza, Mc Zaac",2,0.75,0.833333,8,3,2,5,90,8,61,0
+363,PUBLIC,,['indie rockism'],169367,BANNERS,15,0.109787,0.126682,0,0,1,1,32,0,256,0
+364,Pamungkas,,['indonesian pop'],1885688,,0,0,0,0,0,0,0,62,66,257,0
+365,Panic! At The Disco,,['modern rock'],10940982,,0,0,0,0,2,0,2,72,0,19,0
+366,Pashanim,,"['german alternative rap', 'german drill', 'german hip hop']",223971,,0,0,0,0,0,0,0,63,67,258,0
+367,Passenger,,"['folk-pop', 'neo mellow', 'pop', 'pop rock']",2845751,Vance Joy,3,0.5,0.583333,0,1,1,2,72,0,121,1
+368,Paul McCartney,,"['album rock', 'art rock', 'beatlesque', 'classic rock', 'mellow gold', 'rock', 'soft rock']",3680265,"Elton John, The Beach Boys, John Lennon",2,0.714286,0.8,3,1,3,4,68,32,200,0.166667
+369,Peach Tree Rascals,,"['alternative r&b', 'chill r&b', 'indie r&b', 'pop']",181606,,0,0,0,0,5,0,5,64,0,38,0
+370,Pedro Capó,,"['latin', 'latin pop', 'puerto rican pop']",1376248,,0,0,0,0,0,0,0,65,68,259,0
+371,Pentatonix,,['a cappella'],3103166,Meghan Trainor,12,0.188781,0.225567,0,0,1,1,87,0,260,0
+372,Perry Como,,"['adult standards', 'brill building pop', 'easy listening', 'lounge', 'vocal jazz']",348345,"Andy Williams, Burl Ives, Brenda Lee",1,1,1,13,10,3,13,97,9,63,0.244444
+373,Petter Ferraz,,[],14791,Malu,7,0.318966,0.364672,0,0,1,1,100,0,261,0
+374,Pink Sweat$,,"['bedroom soul', 'pop']",1023895,,0,0,0,0,1,0,1,16,0,37,0
+375,Piso 21,,"['colombian pop', 'latin', 'latin pop', 'reggaeton', 'reggaeton colombiano', 'trap latino']",7387364,"Cali Y El Dandee, Manuel Turizo, Sebastian Yatra, Maluma",6,0.364583,0.439048,646.940004,7,4,11,100,0,32,0.404762
+376,Playboi Carti,,"['atl hip hop', 'plugg', 'rap', 'trap']",5212759,"Don Toliver, Lil Yachty, Gunna, Lil Uzi Vert, 21 Savage, NAV",18,0.101695,0.161106,5.800108,4,6,10,66,0,41,0.52381
+377,Polo G,,['chicago rap'],5307510,"G Herbo, Roddy Ricch, Lil Tjay, Trippie Redd, Gunna, Internet Money, DDG, Lil Tecca, Lil Mosey, YNW Melly, Sleepy Hallow, NAV",16,0.12402,0.211667,211.137057,4,12,16,66,0,41,0.307692
+378,Pooh Shiesty,,"['memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",492204,"G Herbo, Money Man",1,1,1,184,2,2,4,66,0,11,0.166667
+379,Pop Smoke,,['brooklyn drill'],7603097,"Mustard, Roddy Ricch, Lil Tjay, Gunna, Polo G, Internet Money, Lil Baby, DDG, Lil Tecca, Russ Millions, NAV",16,0.139608,0.23518,0,0,11,11,66,0,263,0.281818
+380,Post Malone,,"['dfw rap', 'melodic rap', 'rap']",34300843,"SAINt JHN, Migos, Internet Money, NAV, French Montana, A$AP Ferg, Lil Mosey, Bazzi, Tyla Yaweh",12,0.212895,0.290472,0,0,9,9,66,0,264,0.180556
+381,Powfu,,"['pop rap', 'sad rap']",956976,,0,0,0,0,0,0,0,67,69,265,0
+382,Queen,,"['classic rock', 'glam rock', 'rock']",36970216,"Journey, Elton John, John Lennon",2,0.636364,0.714286,0,0,3,3,68,32,266,0
+383,RAF Camora,,['german hip hop'],1361522,,0,0,0,0,5,0,5,10,2,3,0.35
+384,ROSALÍA,,['r&b en espanol'],4836778,"Lele Pons, C. Tangana",9,0.239521,0.299117,370,1,2,3,100,0,35,0
+385,ROSÉ,,"['glam metal', 'hard rock', 'rock']",22028069,AC/DC,1,1,1,4,1,1,2,8,4,76,0
+386,Rauw Alejandro,,"['puerto rican pop', 'trap latino']",6960646,"Alex Rose, Nio Garcia, Myke Towers, Anuel AA, Jhay Cortez, Ozuna, Lunay, Dalex",8,0.304348,0.463844,6.731782,4,8,12,100,0,32,0.666667
+387,Raí Saia Rodada,,['forro'],1394412,"Jonas Esticado, Matheus Fernandes, Mari Fernandez",5,0.411765,0.611905,0.833333,3,3,6,51,34,205,0.466667
+388,Red Velvet,,"['k-pop', 'k-pop girl group']",5975786,"Red Velvet - IRENE & SEULGI, TWICE",4,0.428571,0.569444,3,3,2,5,8,4,77,0.416667
+389,Red Velvet - IRENE & SEULGI,,['k-pop'],434666,,0,0,0,0,1,0,1,8,4,75,0
+390,Regard,,"['dance pop', 'edm', 'pop', 'pop dance', 'pop edm', 'slap house', 'tropical house']",157789,"twocolors, Topic",1,1,1,0,3,2,5,92,0,197,0.5
+391,Reik,,"['latin', 'latin arena pop', 'latin pop', 'mexican pop']",6349154,,0,0,0,0,1,0,1,100,0,31,0
+392,Residente,,['venezuelan hip hop'],894835,,0,0,0,0,0,0,0,69,70,267,0
+393,Rich Music LTD,,"['latin', 'reggaeton', 'trap latino']",208178,"Alex Rose, Feid, Milly, Rvssian, Jerry Di, Super Yei, Dímelo Flow, Kevin Roldan, Dalex",8,0.310606,0.458972,22.376487,1,9,10,100,0,154,0.236111
+394,Riton,,"['dance pop', 'edm', 'house', 'pop dance', 'pop rap', 'tropical house', 'uk dance']",88577,Majestic,1,1,1,0,0,1,1,70,58,268,0
+395,Ritt Momney,,"['bedroom pop', 'indie pop']",102873,,0,0,0,0,0,0,0,71,71,269,0
+396,Robin Schulz,,"['dance pop', 'deep euro house', 'deep house', 'edm', 'german dance', 'pop', 'pop dance', 'tropical house']",2818069,"Sam Feldt, Ofenbach",1,1,1,8,3,2,5,72,0,52,0.166667
+397,Rochy RD,,"['dembow', 'dominican pop', 'rap dominicano', 'trap latino']",373232,,0,0,0,0,0,0,0,73,72,270,0
+398,Rod Wave,,['florida rap'],2383411,Money Man,1,1,1,0,0,1,1,66,0,271,0
+399,Roddy Ricch,,"['melodic rap', 'rap', 'trap']",6876423,"DaBaby, Gunna, NAV, Lil Baby, Lil Tecca, Lil Mosey, YNW Melly, Tyla Yaweh",16,0.123932,0.201896,785.474558,10,8,18,66,0,41,0.326923
+400,Rusherking,,"['trap argentino', 'trap latino', 'trap triste']",395901,Tiago PZK,1,1,1,221,3,1,4,100,0,26,0
+401,Russ Millions,,[],212290,Tion Wayne,2,0.666667,0.75,2,1,1,2,91,0,262,0
+402,Rvssian,,"['latin', 'latin hip hop', 'reggaeton', 'reggaeton flow', 'trap latino']",1460740,"Alex Rose, Nio Garcia, Lunay, Anuel AA, Kevin Roldan",8,0.291667,0.411463,119.555987,20,5,25,100,0,32,0.284211
+403,S1mba,,['afroswing'],49384,,0,0,0,0,1,0,1,91,0,215,0
+404,SAINt JHN,,"['melodic rap', 'pop rap', 'rap', 'slap house', 'trap']",761213,"NAV, Tyla Yaweh",17,0.110546,0.155971,0,2,2,4,66,0,41,0.5
+405,SHAED,,"['electropop', 'pop']",142958,,0,0,0,0,0,0,0,74,73,272,0
+406,SZA,,"['pop', 'r&b', 'rap']",6239998,"Kali Uchis, Jhené Aiko, Kehlani, H.E.R.",22,0.081043,0.119673,878.333333,5,4,9,16,0,41,0.214286
+407,Sabrina Carpenter,,"['alt z', 'dance pop', 'electropop', 'pop', 'post-teen pop', 'viral pop']",3780233,"Madison Beer, Demi Lovato, Bea Miller, Camila Cabello",11,0.197279,0.241708,55.970001,5,4,9,87,0,41,0.321429
+408,Sam Feldt,,"['dance pop', 'edm', 'electro house', 'pop', 'pop dance', 'pop edm', 'tropical house']",651578,,0,0,0,0,7,0,7,72,0,50,0.119048
+409,Sam Fischer,,"['alt z', 'australian pop', 'dance pop', 'pop']",131572,JP Saxe,3,0.5,0.611111,16.498801,5,1,6,72,0,15,0.1
+410,Sam Smith,,"['dance pop', 'pop', 'uk pop']",17604066,"Lewis Capaldi, Dean Lewis, ZAYN, Niall Horan, James Arthur, Ellie Goulding, John Legend, Sam Fischer",11,0.192905,0.26136,596.580814,3,8,11,72,0,41,0.136364
+411,Samra,,['german hip hop'],1066892,Zuna,2,0.666667,0.75,0,1,1,2,10,2,8,0.5
+412,Sara Kays,,"['alt z', 'indie pop', 'modern indie pop', 'pop', 'social media pop']",263471,Alexander 23,3,0.5,0.611111,14.208333,4,1,5,87,0,15,0.083333
+413,Sarah Cothran,,[],206915,"Ashe, Sara Kays",13,0.135659,0.161971,0,0,2,2,87,0,273,0.5
+414,Saweetie,,"['cali rap', 'dance pop', 'pop', 'trap queen']",1323464,"BIA, Megan Thee Stallion",25,0.067064,0.093115,4.833333,3,2,5,16,0,114,0.4
+415,Sebastian Yatra,,"['colombian pop', 'latin', 'reggaeton', 'reggaeton colombiano']",16622599,"Nio Garcia, Manuel Turizo, KAROL G, Piso 21, Camilo",5,0.411765,0.484286,2043.859202,6,5,11,100,0,32,0.428571
+416,Sech,,"['latin', 'panamanian pop', 'reggaeton', 'trap latino']",9184915,"Arcangel, Nio Garcia, Yandel, Manuel Turizo, Myke Towers, Lunay, Rvssian, Wisin, Anuel AA, Kevin Roldan, Jhay Cortez, Ozuna, Tainy",7,0.395604,0.586376,7.639683,1,13,14,100,0,190,0.395604
+417,Selena Gomez,,"['dance pop', 'pop', 'post-teen pop']",30117217,"Miley Cyrus, ZAYN, Sabrina Carpenter, Halsey, Madison Beer, Camila Cabello, Demi Lovato, Bea Miller",11,0.206406,0.272263,1379.21412,12,8,20,87,0,41,0.271429
+418,Sfera Ebbasta,,"['italian hip hop', 'italian pop', 'trap italiana']",4500534,,0,0,0,0,0,0,0,75,74,274,0
+419,Shablo,,['italian hip hop'],41955,,0,0,0,0,0,0,0,76,75,275,0
+420,Shakin' Stevens,,"['new wave pop', 'rock-and-roll', 'rockabilly', 'soft rock']",101652,,0,0,0,0,0,0,0,77,76,276,0
+421,Shakira,,"['colombian pop', 'dance pop', 'latin', 'latin pop', 'pop']",22417609,,0,0,0,0,0,0,0,78,77,277,0
+422,Shawn Mendes,,"['canadian pop', 'dance pop', 'pop', 'viral pop']",34661710,"Meghan Trainor, ZAYN, Niall Horan, Camila Cabello, Selena Gomez, Liam Payne, 5 Seconds of Summer, Demi Lovato, Bazzi",10,0.235772,0.300075,3016.379431,9,9,18,87,0,41,0.339744
+423,Shirin David,,"['frauenrap', 'german hip hop', 'german pop']",593725,"Juju, Dardan, Miksu / Macloud, Zuna",2,0.833333,0.9,0,0,4,4,10,2,278,0.166667
+424,Shiva,,"['indie garage rock', 'portland indie']",21397,,0,0,0,0,0,0,0,79,78,279,0
+425,Shouse,,['aussietronica'],40277,,0,0,0,0,0,0,0,80,79,280,0
+426,Sia,,"['australian dance', 'australian pop', 'dance pop', 'pop']",21034227,"Adele, Bebe Rexha, Lorde, Clean Bandit, Anne-Marie, Lady Gaga, Halsey, Ellie Goulding, Ava Max",12,0.195202,0.271837,30.601194,3,9,12,87,0,47,0.255556
+427,Sleepy Hallow,,"['brooklyn drill', 'nyc rap']",519711,DDG,20,0.084139,0.107152,0,2,1,3,66,0,41,0.5
+428,Smiley,,"['canadian hip hop', 'toronto rap']",19656,,0,0,0,0,0,0,0,81,80,281,0
+429,Soso Maness,,"['french hip hop', 'pop urbaine', 'rap francais', 'rap marseille']",318767,,0,0,0,0,0,0,0,82,81,282,0
+430,StarBoi3,,[],20050,"BIA, Bebe Rexha, Anne-Marie, Saweetie, Erica Banks, Normani",11,0.183838,0.235481,0,0,6,6,16,0,283,0.1
+431,StaySolidRocky,,['melodic rap'],152950,"Internet Money, Arizona Zervas, Lil Mosey",16,0.122378,0.174933,0,0,3,3,66,0,284,0.166667
+432,Stevie Wonder,,"['funk', 'indie r&b', 'motown', 'quiet storm', 'soul']",5270315,,0,0,0,0,2,0,2,97,9,244,0.5
+433,Stormzy,,"['grime', 'uk hip hop']",2354928,Octavian,1,1,1,1,1,1,2,91,0,214,0
+434,Studio Killers,,[],185003,,0,0,0,0,0,0,0,83,82,285,0
+435,Sub Urban,,['modern indie pop'],998147,,0,0,0,0,0,0,0,84,83,286,0
+436,Super Yei,,"['latin', 'reggaeton', 'reggaeton flow', 'trap latino']",298430,,0,0,0,0,1,0,1,100,0,152,0
+437,Surf Curse,,"['dreamo', 'indie pop', 'indie surf', 'surf punk', 'vegas indie']",549200,,0,0,0,0,1,0,1,87,0,93,0
+438,Surf Mesa,,['tropical house'],137575,"twocolors, Topic",2,0.75,0.833333,0,0,2,2,92,0,287,1
+439,Surfaces,,"['bedroom soul', 'pop']",753967,Peach Tree Rascals,1,1,1,0,0,1,1,64,0,288,0
+440,THE SCOTTS,,[],180463,,0,0,0,0,0,0,0,85,84,289,0
+441,TINI,,"['latin pop', 'pop argentino']",3171723,"Migrantes, MYA, Emilia",3,0.625,0.766667,1092,1,3,4,100,0,30,0.166667
+442,TOKYO’S REVENGE,,"['meme rap', 'sad rap', 'vapor trap', 'viral rap']",330429,,0,0,0,0,1,0,1,66,0,40,0
+443,TOMORROW X TOGETHER,,"['k-pop', 'k-pop boy group']",4592642,,0,0,0,0,2,0,2,4,7,48,0.5
+444,TWICE,,"['k-pop', 'k-pop girl group']",10708592,"Red Velvet, BLACKPINK",3,0.545455,0.638889,4,3,2,5,8,4,77,0.666667
+445,Tainy,,"['latin', 'latin hip hop', 'latin pop', 'pop reggaeton', 'reggaeton', 'reggaeton flow', 'trap latino']",568918,"Jowell & Randy, Arcangel, Yandel, Rvssian, Wisin, Jhay Cortez, Lunay",9,0.271318,0.440215,929.301115,11,7,18,100,0,32,0.216667
+446,Tame Impala,,"['australian psych', 'neo-psychedelic']",5153574,,0,0,0,0,0,0,0,86,85,290,0
+447,Tarcísio do Acordeon,,[],1441903,"Jonas Esticado, Matheus Fernandes, Raí Saia Rodada, Mari Fernandez",5,0.444444,0.660417,0.833333,2,4,6,51,34,206,0.466667
+448,Tate McRae,,"['alt z', 'dance pop', 'pop', 'post-teen pop']",1799545,"Alexander 23, Alec Benjamin, Ashe, Madison Beer, Bea Miller",11,0.181818,0.226022,3031.663179,7,5,12,87,0,41,0.138889
+449,Taylor Swift,,['pop'],43640194,"Lorde, Miley Cyrus, Meghan Trainor, Jonas Brothers, ZAYN, Niall Horan, Halsey, Harry Styles, Kelly Clarkson, Camila Cabello, Selena Gomez, Demi Lovato",11,0.224936,0.308837,0,0,12,12,87,0,291,0.295455
+450,The 1975,,"['modern alternative rock', 'modern rock', 'pop', 'rock']",5127711,Wallows,15,0.107077,0.122025,50.875541,1,1,2,87,0,41,0
+451,The Beach Boys,,"['baroque pop', 'brill building pop', 'classic rock', 'psychedelic rock', 'rock', 'sunshine pop']",3318770,,0,0,0,0,2,0,2,68,32,199,1
+452,The Chainsmokers,,"['dance pop', 'edm', 'electropop', 'pop', 'pop dance', 'tropical house']",18408203,"Martin Garrix, Kygo, benny blanco, Galantis, Marshmello, Calvin Harris",13,0.171296,0.224896,589.166667,4,6,10,72,0,55,0.142857
+453,The Jackson 5,,"['motown', 'soul']",1169868,Stevie Wonder,1,1,1,0,1,1,2,97,9,245,0.5
+454,The Kid LAROI,,['australian hip hop'],2606669,"Roddy Ricch, Trippie Redd, Lil Tjay, Cordae, Polo G, Internet Money, benny blanco, Lil Tecca, Lil Uzi Vert, Lil Mosey, iann dior, YNW Melly, NAV",13,0.177126,0.270032,6.563492,1,13,14,66,0,222,0.318681
+455,The Killers,,"['alternative rock', 'dance rock', 'modern rock', 'permanent wave', 'rock']",6214261,,0,0,0,0,1,0,1,72,0,120,0
+456,The Neighbourhood,,"['modern alternative rock', 'modern rock', 'pop']",6992004,"Mother Mother, Surf Curse, Melanie Martinez, Wallows, Clairo, Conan Gray",12,0.161172,0.209412,26.238095,3,6,9,87,0,94,0.111111
+457,The Pogues,,"['celtic', 'celtic punk', 'celtic rock', 'folk punk', 'irish folk', 'punk']",389310,,0,0,0,0,0,0,0,88,86,292,0
+458,The Police,,"['album rock', 'art rock', 'classic rock', 'mellow gold', 'new wave', 'permanent wave', 'rock', 'soft rock']",4451404,,0,0,0,0,0,0,0,89,87,293,0
+459,The Ronettes,,"['brill building pop', 'classic girl group', 'motown', 'rock-and-roll', 'soul']",182918,Darlene Love,1,1,1,0,1,1,2,97,9,82,0
+460,The Weeknd,,"['canadian contemporary r&b', 'canadian pop', 'pop']",37058135,"SZA, PARTYNEXTDOOR, Travis Scott, Don Toliver, Childish Gambino, French Montana, Jhené Aiko, Bryson Tiller, Kendrick Lamar, Ty Dolla $ign, Big Sean, Belly",17,0.132994,0.241544,83.036935,1,12,13,32,0,90,0.128788
+461,Thiaguinho MT,,"['brega funk', 'funk carioca']",28479,"Dadá Boladão, Niack, Mc Zaac",1,1,1,0,0,3,3,90,8,294,0
+462,Tiago PZK,,['trap argentino'],552372,Rusherking,1,1,1,0,1,1,2,100,0,26,0
+463,Tion Wayne,,['london rap'],373472,Headie One,1,1,1,3,2,1,3,91,0,212,0
+464,Tiësto,,"['big room', 'brostep', 'dance pop', 'dutch edm', 'edm', 'house', 'pop', 'pop dance', 'slap house', 'trance', 'tropical house']",5914054,Martin Garrix,1,1,1,0,0,1,1,72,0,295,0
+465,Tom Grennan,,"['modern rock', 'uk pop']",276714,BANNERS,15,0.110196,0.127027,0,1,1,2,32,0,41,0.5
+466,Tom Odell,,"['chill pop', 'pop']",1888351,"Hozier, Vance Joy, Passenger",2,0.8,0.875,9,3,3,6,72,0,121,0.25
+467,Tones And I,,"['australian pop', 'pop']",2863391,"Sam Feldt, Sam Fischer, Zoe Wees",4,0.5,0.635417,7,1,3,4,72,0,195,0.166667
+468,Tony Bennett,,"['adult standards', 'easy listening', 'lounge', 'vocal jazz']",675400,Perry Como,2,0.571429,0.625,0,2,1,3,97,9,169,0.5
+469,Topic,,"['dance pop', 'edm', 'electro house', 'german dance', 'pop dance', 'pop edm', 'tropical house']",156782,"twocolors, Regard",1,1,1,2,5,2,7,92,0,197,0.3
+470,Tory Lanez,,"['canadian hip hop', 'canadian trap', 'hip hop', 'melodic rap', 'pop rap', 'r&b', 'rap', 'toronto rap', 'trap']",3914569,"Ty Dolla $ign, PARTYNEXTDOOR, Tyga, French Montana, Bryson Tiller, Meek Mill",18,0.115691,0.179164,4845.688095,6,6,12,32,0,41,0.267857
+471,Travis Scott,,"['rap', 'slap house']",18452405,"Migos, Gunna, Childish Gambino, Lil Uzi Vert, A$AP Ferg, Kendrick Lamar, Meek Mill, Playboi Carti",17,0.129101,0.214569,76.486797,2,8,10,66,0,89,0.177778
+472,Trevor Daniel,,"['alternative r&b', 'melodic rap', 'pop', 'pop rap']",645237,"Arizona Zervas, Tyla Yaweh, blackbear",14,0.147959,0.189907,1825.933628,6,3,9,66,0,41,0.166667
+473,Trinidad Cardona,,[],114860,"Bryson Tiller, H.E.R., PARTYNEXTDOOR, Kehlani, Brent Faiyaz, Vedo",20,0.09665,0.151009,0,0,6,6,16,0,296,0.333333
+474,Trio Vegabajeño,,"['musica jibara', 'puerto rican folk']",9326,,0,0,0,0,0,0,0,93,88,297,0
+475,Trippie Redd,,"['melodic rap', 'rap', 'trap']",6687646,"Cordae, Gunna, Lil Yachty, Polo G, Internet Money, Lil Tecca, Lil Uzi Vert, Lil Mosey, YNW Melly, NAV",16,0.123755,0.20544,719.846101,8,10,18,66,0,41,0.295238
+476,Trueno,,"['argentine hip hop', 'bases de freestyle', 'trap argentino', 'trap latino']",2320499,"Bizarrap, KHEA",1,1,1,0,2,2,4,94,17,97,1
+477,Twenty One Pilots,,"['modern rock', 'rock']",21169100,Panic! At The Disco,1,1,1,183,1,1,2,72,0,20,0
+478,Ty Dolla $ign,,"['hip hop', 'pop', 'pop rap', 'r&b', 'trap', 'trap soul']",3931489,"Mustard, PARTYNEXTDOOR, French Montana, K CAMP, Tory Lanez, Tyla Yaweh",17,0.125541,0.193898,3597.832173,10,6,16,32,0,41,0.137363
+479,Tyga,,"['dance pop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",6342673,"Ty Dolla $ign, French Montana, DJ Khaled, Meek Mill, Tory Lanez, Big Sean",17,0.122277,0.183649,1079.452381,1,6,7,32,0,41,0.533333
+480,Tyla Yaweh,,"['cali rap', 'melodic rap', 'pop rap', 'rap', 'trap']",376464,"SAINt JHN, Arizona Zervas, NAV, Lil Mosey",16,0.122105,0.177184,3900.127971,13,4,17,66,0,41,0.138095
+481,Tyler,,"['hip hop', 'rap']",7055307,"BROCKHAMPTON, Childish Gambino",18,0.104023,0.133075,0,0,2,2,32,0,298,0.5
+482,Ufo361,,"['german cloud rap', 'german hip hop']",1720311,"Zuna, Bausa, Dardan, 187 Strassenbande, KitschKrieg, KC Rebell",3,0.535714,0.655556,7.483333,2,6,8,10,2,9,0.357143
+483,VIZE,,"['dance pop', 'edm', 'german dance', 'pop dance', 'slap house', 'tropical house']",147875,,0,0,0,0,0,0,0,95,89,299,0
+484,Vance Joy,,"['folk-pop', 'modern rock', 'pop', 'pop rock']",2457266,"Hozier, Tom Odell",2,0.666667,0.75,5,4,2,6,72,0,121,0.333333
+485,Vedo,,"['pop r&b', 'r&b']",275901,,0,0,0,0,2,0,2,16,0,99,0
+486,Vegedream,,"['francoton', 'pop urbaine']",1255123,"Gradur, Aya Nakamura",2,0.666667,0.75,3,1,2,3,6,11,72,0
+487,Vicetone,,"['edm', 'electro house', 'pop dance', 'pop edm', 'progressive electro house', 'tropical house']",383704,,0,0,0,0,0,0,0,96,90,300,0
+488,WILLOW,,"['afrofuturism', 'dance pop', 'electropop', 'pop', 'post-teen pop']",1690339,"Kali Uchis, SZA",23,0.075065,0.102945,40.666667,4,2,6,16,0,41,0.25
+489,Walker Hayes,,"['contemporary country', 'country', 'country road', 'modern country rock']",331058,Brett Eldredge,1,1,1,0,1,1,2,17,22,108,0
+490,Wallows,,"['indie pop', 'modern rock', 'pop']",2027184,Conan Gray,14,0.11926,0.137554,518,4,1,5,87,0,41,0.166667
+491,Wesley Safadão,,['forro'],10112904,"Jonas Esticado, Diego & Victor Hugo",3,0.5,0.611111,18,2,2,4,51,34,138,0.333333
+492,Wham!,,"['disco', 'europop', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'soft rock', 'synthpop']",1682114,,0,0,0,0,3,0,3,97,9,81,0
+493,WhoHeem,,['viral rap'],25991,,0,0,0,0,0,0,0,98,91,301,0
+494,Wisin,,"['latin', 'latin hip hop', 'reggaeton', 'trap latino']",7084249,"Jowell & Randy, Arcangel, Nicky Jam, Yandel, Farruko",1,1,1,62.47601,10,5,15,100,0,25,0.318182
+495,XXXTENTACION,,"['emo rap', 'miami hip hop']",30994065,"Trippie Redd, Lil Yachty, Internet Money, A Boogie Wit da Hoodie, Lil Uzi Vert, iann dior",15,0.136826,0.204325,0,0,6,6,66,0,302,0.3
+496,Y2K,,['pop rap'],271832,,0,0,0,0,0,0,0,99,92,303,0
+497,YNW Melly,,"['melodic rap', 'trap']",6577900,"Roddy Ricch, DaBaby, Cordae, Lil Yachty, A Boogie Wit da Hoodie, Lil Tecca, Lil Mosey, NAV",16,0.123229,0.195862,205.37649,11,8,19,66,0,41,0.340659
+498,Yandel,,"['latin', 'latin hip hop', 'reggaeton', 'reggaeton flow', 'trap latino']",5293485,"Wisin, Jowell & Randy, Nicky Jam, Arcangel",2,0.833333,0.9,127.546934,11,4,15,100,0,25,0.333333
+499,Young Stoner Life,,"['rap', 'trap']",62765,"Gunna, Lil Yachty",18,0.101215,0.1439,0,0,2,2,66,0,304,0
+500,ZAYN,,"['dance pop', 'pop', 'post-teen pop', 'uk pop']",17296921,"One Direction, Niall Horan, Shawn Mendes, Halsey, Harry Styles, Camila Cabello, Selena Gomez, Liam Payne, 5 Seconds of Summer, Bazzi",10,0.223077,0.293815,5359.470568,18,10,28,87,0,41,0.207602
+501,Zoe Wees,,['german pop'],232086,"Sam Fischer, Mimi Webb, Nea",4,0.5,0.680556,6,2,3,5,72,0,149,0.1
+502,Zuna,,"['albanian hip hop', 'german hip hop']",911193,Dardan,1,1,1,2,8,1,9,10,2,5,0.25
+503,a-ha,,"['album rock', 'classic rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",1596491,,0,0,0,0,0,0,0,101,93,305,0
+504,benny blanco,,"['electropop', 'pop', 'pop rap']",824734,"Bazzi, Internet Money, Arizona Zervas, Trevor Daniel",12,0.195946,0.253982,11843.269499,9,4,13,66,0,41,0.121212
+505,blackbear,,"['pop', 'pop rap']",4381561,"benny blanco, iann dior, Trevor Daniel, jxdn",13,0.167308,0.214113,2019.074141,2,4,6,66,0,41,0.2
+506,dhruv,,"['chill r&b', 'nyc pop']",117186,,0,0,0,0,0,0,0,102,94,306,0
+507,iann dior,,"['melodic rap', 'pop rap']",1342876,"Internet Money, Lil Mosey, 24kGoldn, Arizona Zervas, jxdn, Tyla Yaweh",14,0.152098,0.215482,6719.862133,8,6,14,66,0,41,0.166667
+508,jxdn,,"['pop', 'pop rap']",839963,iann dior,15,0.132118,0.166323,0,4,1,5,66,0,41,0.333333
+509,salem ilese,,"['alt z', 'modern indie pop', 'social media pop']",142585,,0,0,0,0,0,0,0,103,95,307,0
+510,sangiovanni,,[],448108,"Madame, BLANCO",13,0.165886,0.202104,0,0,2,2,66,0,308,0
+511,twocolors,,"['edm', 'pop dance', 'pop edm', 'tropical house']",38952,Topic,2,0.666667,0.75,0,5,1,6,92,0,197,0.35
