@@ -214,26 +214,3 @@ if __name__ == '__main__':
     print('Writing files')
     writeToCSV(artistDict)
     print('Done writing')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
